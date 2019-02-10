@@ -1,46 +1,30 @@
-﻿using System;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 
 namespace UdemyFramework
 {
-    internal class SampleApplicationPage
+    internal class SampleApplicationPage : BaseSampleApplicationPage
     {
-        private IWebDriver _driver;
 
-        public SampleApplicationPage(IWebDriver driver)
+        public SampleApplicationPage(IWebDriver driver) : base(driver)
         {
-            Driver = driver;
         }
 
-        private bool? _isVisible;
+        public bool? IsVisible => Driver.Title.Contains("Sample Application Lifecycle");
+ 
+        string _sampleApplicationUrl = "https://www.ultimateqa.com/sample-application-lifecycle-sprint-1";
+        IWebElement _firstNameSubmitButton => Driver.FindElement(By.Id("submitForm"));
+        IWebElement _nameInputField => Driver.FindElement(By.Name("firstname"));
 
-        public IWebDriver Driver { get => _driver; set => _driver = value; }
-        public bool? IsVisible
+        internal UltimateQaHomePage FillOutFormAndSubmit(string fName)
         {
-            get
-            {
-                return Driver.FindElement(_SampleApplicationPage).Displayed;
-            }
-            set
-            {
-                _isVisible = value;
-            }
-        }
-        string _ultimateQaHome = "https://www.ultimateqa.com/sample-application-lifecycle-sprint-1";
-        By _SampleApplicationPage = By.Id("submitForm");
-        By _NameInputField = By.Name("firstname");
-
-        internal UltimateQaHomePage FillOutFormAndSubmit(string input)
-        {
-            Driver.FindElement(_NameInputField).SendKeys(input);
-            Driver.FindElement(_SampleApplicationPage).Click();
+            _nameInputField.SendKeys(fName);
+            _firstNameSubmitButton.Click();
             return new UltimateQaHomePage(Driver);
         }
 
         internal void GoTo()
         {
-            Driver.Navigate().GoToUrl(_ultimateQaHome);
-
+            Driver.Navigate().GoToUrl(_sampleApplicationUrl);
         }
     }
 }

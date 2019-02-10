@@ -58,7 +58,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SampleApplication.cs" />
+    <Compile Include="BaseSampleApplicationPage.cs" />
+    <Compile Include="SampleApplicationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SampleApplicationPage.cs" />
     <Compile Include="UltimateQaHomePage.cs" />

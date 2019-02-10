@@ -2,28 +2,20 @@
 
 namespace UdemyFramework
 {
-    internal class UltimateQaHomePage
+    internal class UltimateQaHomePage : BaseSampleApplicationPage
     {
-        IWebDriver _driver;
-
-        public UltimateQaHomePage(IWebDriver driver)
+        public UltimateQaHomePage(IWebDriver driver) :base(driver)
         {
-            Driver = driver;
         }
 
-        public bool? IsVisible
-        {
-            get
-            {
-                return Driver.Title == "Home - Ultimate QA";
-            }
-            set
-            {
-                IsVisible = value;
-            }
-        }
-        
-        public IWebDriver Driver { get => _driver; set => _driver = value; }
+        //public bool? IsVisible
+        //{
+        //    get => Driver.Title == "Home - Ultimate QA";
+        //    set => IsVisible = value;
+        //}
+
+        public bool? IsVisible => Driver.Title == "Home - Ultimate QA";
+
 
     }
 }
