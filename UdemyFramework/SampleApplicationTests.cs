@@ -9,14 +9,19 @@ namespace UdemyFramework
     public class SampleApplicationTests
     {
         IWebDriver _driver;
+        TestUser _myUser;
 
         public IWebDriver Driver { get => _driver; set => _driver = value; }
 
         [SetUp]
-        public void Setup()
+        public void SetupPerTest()
 
         {
             Driver = new ChromeDriver();
+            _myUser = new TestUser();
+            _myUser.firstName = "John";
+            _myUser.lastName = "Wood";
+            _myUser.gender = Gender.Male;
         }
 
         [Test]
@@ -24,11 +29,35 @@ namespace UdemyFramework
         {
             var sampleApplicationPage = new SampleApplicationPage(Driver);
             sampleApplicationPage.GoTo();
-            Assert.IsTrue(sampleApplicationPage.IsVisible, "You were not on the Sample Application Home Page");
+            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
 
-            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit("John");
             Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
+        }
 
+        [Test]
+        public void Test2()
+        {
+            var sampleApplicationPage = new SampleApplicationPage(Driver);
+            sampleApplicationPage.GoTo();
+            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
+
+            Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
+        }
+
+        [Test]
+        public void Test3()
+        {
+            _myUser.gender = Gender.Other;
+            var sampleApplicationPage = new SampleApplicationPage(Driver);
+            sampleApplicationPage.GoTo();
+            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
+
+            Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
+        }
+
+        [TearDown]
+        public void TearDownPerTest()
+        {
             Driver.Close();
             Driver.Quit();
         }
