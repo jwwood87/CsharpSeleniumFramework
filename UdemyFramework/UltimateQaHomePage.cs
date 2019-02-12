@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using System;
+using OpenQA.Selenium;
 
 namespace UdemyFramework
 {
@@ -15,7 +16,5 @@ namespace UdemyFramework
         //}
 
         public bool? IsVisible => Driver.Title == "Home - Ultimate QA";
-
-
     }
 }

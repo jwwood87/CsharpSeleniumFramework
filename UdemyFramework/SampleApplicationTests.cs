@@ -10,6 +10,7 @@ namespace UdemyFramework
     {
         IWebDriver _driver;
         TestUser _myUser;
+        SampleApplicationPage _sampleApplicationPage;
 
         public IWebDriver Driver { get => _driver; set => _driver = value; }
 
@@ -18,18 +19,22 @@ namespace UdemyFramework
 
         {
             Driver = new ChromeDriver();
-            _myUser = new TestUser();
+            _sampleApplicationPage = new SampleApplicationPage(Driver); _myUser = new TestUser();
             _myUser.firstName = "John";
             _myUser.lastName = "Wood";
             _myUser.gender = Gender.Male;
+            _myUser.emergencyFirstName = "Lori";
+            _myUser.emergencyLastName = "Wood";
+            _myUser.EmergencyGender = Gender.Female;
         }
 
         [Test]
+        [Description("This is a test description")]
         public void Test1()
         {
-            var sampleApplicationPage = new SampleApplicationPage(Driver);
-            sampleApplicationPage.GoTo();
-            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
+
+            _sampleApplicationPage.GoTo();
+            UltimateQaHomePage ultimateQaHomePage = _sampleApplicationPage.FillOutUserFormAndSubmit(_myUser);
 
             Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
         }
@@ -37,9 +42,9 @@ namespace UdemyFramework
         [Test]
         public void Test2()
         {
-            var sampleApplicationPage = new SampleApplicationPage(Driver);
-            sampleApplicationPage.GoTo();
-            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
+            _myUser.gender = Gender.Other;
+            _sampleApplicationPage.GoTo();
+            UltimateQaHomePage ultimateQaHomePage = _sampleApplicationPage.FillOutUserFormAndSubmit(_myUser);
 
             Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
         }
@@ -47,14 +52,20 @@ namespace UdemyFramework
         [Test]
         public void Test3()
         {
-            _myUser.gender = Gender.Other;
-            var sampleApplicationPage = new SampleApplicationPage(Driver);
-            sampleApplicationPage.GoTo();
-            UltimateQaHomePage ultimateQaHomePage = sampleApplicationPage.FillOutFormAndSubmit(_myUser);
+            _sampleApplicationPage.GoTo();
+            UltimateQaHomePage ultimateQaHomePage = _sampleApplicationPage.FillOutUserFormAndSubmit(_myUser);
+            Driver.Navigate().Back();
+            _sampleApplicationPage.FillOutEmergencyContactFormAndSubmit(_myUser);
 
             Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
         }
 
+        [Test]
+        public void Test4()
+        {
+            TestUser testUser = new TestUser();
+            testUser = Utilities.GetDataFromJsonFile<TestUser>("User1.json");
+        }
         [TearDown]
         public void TearDownPerTest()
         {
