@@ -19,7 +19,8 @@ namespace UdemyFramework
 
         {
             Driver = new ChromeDriver();
-            _sampleApplicationPage = new SampleApplicationPage(Driver); _myUser = new TestUser();
+            _sampleApplicationPage = new SampleApplicationPage(Driver);
+            _myUser = new TestUser();
             _myUser.firstName = "John";
             _myUser.lastName = "Wood";
             _myUser.gender = Gender.Male;
@@ -29,6 +30,8 @@ namespace UdemyFramework
         }
 
         [Test]
+        [Author("JohnWood")]
+        [Category("Search Tests")]
         [Description("This is a test description")]
         public void Test1()
         {
