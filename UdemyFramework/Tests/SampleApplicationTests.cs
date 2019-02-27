@@ -2,23 +2,21 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
+using UdemyFramework.Tests;
 
 namespace UdemyFramework
 {
     [TestFixture]
-    public class SampleApplicationTests
+    public class SampleApplicationTests : BaseTest
     {
-        IWebDriver _driver;
+
         TestUser _myUser;
         SampleApplicationPage _sampleApplicationPage;
-
-        public IWebDriver Driver { get => _driver; set => _driver = value; }
 
         [SetUp]
         public void SetupPerTest()
 
         {
-            Driver = new ChromeDriver();
             _sampleApplicationPage = new SampleApplicationPage(Driver);
             _myUser = new TestUser();
             _myUser.firstName = "John";
@@ -69,11 +67,6 @@ namespace UdemyFramework
             TestUser testUser = new TestUser();
             testUser = Utilities.GetDataFromJsonFile<TestUser>("User1.json");
         }
-        [TearDown]
-        public void TearDownPerTest()
-        {
-            Driver.Close();
-            Driver.Quit();
-        }
+
     }
 }

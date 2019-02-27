@@ -2,21 +2,18 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using UdemyFramework.Pages;
+using UdemyFramework.Tests;
 
 namespace UdemyFramework
 {
     [TestFixture]
-    public class SearchFunctionality
+    public class SearchFunctionality : BaseTest
     {
-        IWebDriver _driver;
         SearchPage _searchPage;
-
-        public IWebDriver Driver { get => _driver; set => _driver = value; }
 
         [SetUp]
         public void SetUpPerTest()
         {
-            Driver = new ChromeDriver();
             _searchPage = new SearchPage(Driver);
         }
 
@@ -32,11 +29,15 @@ namespace UdemyFramework
             Assert.AreEqual("BLOUSE", _searchPage.GetProductName());
         }
 
-        [TearDown]
-        public void TearDownPerTest()
+        [Test]
+        [Description("Send a Customer Service- Contact Us Message")]
+        [Category("CustomerService")]
+        [Author("JohnWood")]
+        public void Quiz1()
         {
-            Driver.Close();
-            Driver.Quit();
+            //Goto automationpractice.com/index.php?controller=contact
+            //Page is loaded
+            //We are able to contact an individual
         }
     }
 }
