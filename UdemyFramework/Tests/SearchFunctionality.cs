@@ -28,16 +28,5 @@ namespace UdemyFramework
 
             Assert.AreEqual("BLOUSE", _searchPage.GetProductName());
         }
-
-        [Test]
-        [Description("Send a Customer Service- Contact Us Message")]
-        [Category("CustomerService")]
-        [Author("JohnWood")]
-        public void Quiz1()
-        {
-            //Goto automationpractice.com/index.php?controller=contact
-            //Page is loaded
-            //We are able to contact an individual
-        }
     }
 }

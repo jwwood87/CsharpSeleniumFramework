@@ -9,7 +9,7 @@ using UdemyFramework.Tests;
 namespace UdemyFramework
 {
     [TestFixture]
-    public class ContactUs :BaseTest
+    public class ContactUs : BaseTest
     {
         [Test]
         [Author("JohnWood")]
@@ -22,7 +22,5 @@ namespace UdemyFramework
 
             Assert.IsTrue(contactUsPage.PageTitle.Contains("Contact"), "The expected page did not appear.");
         }
-
-
     }
 }
