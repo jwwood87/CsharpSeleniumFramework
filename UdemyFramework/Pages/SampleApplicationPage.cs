@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 
 namespace UdemyFramework
 {
-    internal class SampleApplicationPage : BaseSampleApplicationPage
+    internal class SampleApplicationPage : BaseApplicationPage
     {
 
         public SampleApplicationPage(IWebDriver driver) : base(driver)

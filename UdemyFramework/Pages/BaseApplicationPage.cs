@@ -2,11 +2,11 @@
 
 namespace UdemyFramework
 {
-    public class BaseSampleApplicationPage
+    public class BaseApplicationPage
     {
         protected IWebDriver Driver { get; set; }
 
-        public BaseSampleApplicationPage(IWebDriver driver)
+        public BaseApplicationPage(IWebDriver driver)
         {
             Driver = driver;
         }

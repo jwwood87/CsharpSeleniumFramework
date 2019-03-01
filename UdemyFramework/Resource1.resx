@@ -120,4 +120,7 @@
   <data name="ContactUsUrl" xml:space="preserve">
     <value>http://automationpractice.com/index.php?controller=contact</value>
   </data>
+  <data name="HomePageUrl" xml:space="preserve">
+    <value>http://automationpractice.com/index.php</value>
+  </data>
 </root>

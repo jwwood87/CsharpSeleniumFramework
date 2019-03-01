@@ -68,5 +68,14 @@ namespace UdemyFramework {
                 return ResourceManager.GetString("ContactUsUrl", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to http://automationpractice.com/index.php.
+        /// </summary>
+        internal static string HomePageUrl {
+            get {
+                return ResourceManager.GetString("HomePageUrl", resourceCulture);
+            }
+        }
     }
 }

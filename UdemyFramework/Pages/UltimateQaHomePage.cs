@@ -3,7 +3,7 @@ using OpenQA.Selenium;
 
 namespace UdemyFramework
 {
-    internal class UltimateQaHomePage : BaseSampleApplicationPage
+    internal class UltimateQaHomePage : BaseApplicationPage
     {
         public UltimateQaHomePage(IWebDriver driver) :base(driver)
         {

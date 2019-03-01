@@ -2,7 +2,7 @@
 
 namespace UdemyFramework.Pages
 {
-    internal class ContactUsPage : BaseSampleApplicationPage
+    internal class ContactUsPage : BaseApplicationPage
     {
 
         public ContactUsPage(IWebDriver driver) : base(driver)

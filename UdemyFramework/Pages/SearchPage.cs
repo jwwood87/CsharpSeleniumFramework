@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 
 namespace UdemyFramework.Pages
 {
-    public class SearchPage : BaseSampleApplicationPage
+    public class SearchPage : BaseApplicationPage
     {
         public SearchPage(IWebDriver driver) : base(driver)
         {
@@ -16,7 +16,7 @@ namespace UdemyFramework.Pages
         string _searchUrl = "http://www.automationpractice.com";
         IWebElement _searchBox => Driver.FindElement(By.Id("search_query_top"));
         IWebElement _searchBoxButton => Driver.FindElement(By.Name("submit_search"));
-        IWebElement _blouseProduct => Driver.FindElement(By.LinkText("Blouse")); 
+        IWebElement _blouseProduct => Driver.FindElement(By.LinkText("Blouse"));
 
         public void Goto()
         {
