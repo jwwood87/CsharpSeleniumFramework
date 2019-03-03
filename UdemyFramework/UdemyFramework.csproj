@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\BrowserType.cs" />
+    <Compile Include="Common\Reporter.cs" />
     <Compile Include="Common\WebDriverFactory.cs" />
     <Compile Include="Pages\BaseApplicationPage.cs" />
     <Compile Include="Pages\ContactUsPage.cs" />
