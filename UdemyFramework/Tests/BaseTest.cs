@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using NLog;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
@@ -15,11 +16,13 @@ namespace UdemyFramework.Tests
         WebDriverFactory _webDriver;
 
         public IWebDriver Driver { get => _driver; set => _driver = value; }
+        Logger _logger = LogManager.GetCurrentClassLogger();
 
         [SetUp]
         public void SetupBase()
 
         {
+            _logger.Info("We're in BaseTest, starting the Setup() method.");
             _webDriver = new WebDriverFactory();
             _driver = _webDriver.CreateDriver(BrowserType.Chrome);
         }

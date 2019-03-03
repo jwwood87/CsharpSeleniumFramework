@@ -29,9 +29,9 @@ namespace UdemyFramework
 
         [Test]
         [Author("JohnWood")]
-        [Category("Search Tests")]
+        [Category("Fill-out forms")]
         [Description("This is a test description")]
-        public void Test1()
+        public void TestgoingtoFillOutForm1()
         {
 
             _sampleApplicationPage.GoTo();
@@ -41,6 +41,7 @@ namespace UdemyFramework
         }
 
         [Test]
+        [Category("Fill-out forms")]
         public void Test2()
         {
             _myUser.gender = Gender.Other;
@@ -51,6 +52,8 @@ namespace UdemyFramework
         }
 
         [Test]
+        [Category("Fill-out forms")]
+
         public void Test3()
         {
             _sampleApplicationPage.GoTo();
@@ -62,6 +65,7 @@ namespace UdemyFramework
         }
 
         [Test]
+        [Category("DeserializeJson")]
         public void Test4()
         {
             TestUser testUser = new TestUser();

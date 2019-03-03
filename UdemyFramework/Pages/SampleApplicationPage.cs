@@ -1,4 +1,5 @@
 ﻿using System;
+using NLog;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
@@ -13,7 +14,7 @@ namespace UdemyFramework
 
         public bool? IsVisible => Driver.Title.Contains(PageTitle);
         public string PageTitle => "Sample Application Lifecycle - Sprint 4 - Ultimate QA";
-
+        Logger _logger = LogManager.GetCurrentClassLogger();
         string _sampleApplicationUrl = "https://www.ultimateqa.com/sample-application-lifecycle-sprint-4";
         IWebElement _submitButton => Driver.FindElement(By.CssSelector("input[type='submit']"));
         IWebElement _firstName => Driver.FindElement(By.Name("firstname"));
@@ -30,10 +31,12 @@ namespace UdemyFramework
 
         internal UltimateQaHomePage FillOutUserFormAndSubmit(TestUser user)
         {
+            _logger.Debug("Starting Debug logging for FillOutUserFormAndSubmit() method.");
             _firstName.SendKeys(user.firstName);
             _lastName.SendKeys(user.lastName);
             ClickGenderButton(user);
             _submitButton.Click();
+            _logger.Debug("Finishing Debug logging for FillOutUserFormAndSubmit() method.");
             return new UltimateQaHomePage(Driver);
         }
 

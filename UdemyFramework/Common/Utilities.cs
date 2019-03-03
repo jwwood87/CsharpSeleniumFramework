@@ -1,6 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 using System.IO;
+using NLog;
 
 namespace UdemyFramework
 {
@@ -11,6 +12,7 @@ namespace UdemyFramework
         /// </summary>
         public static T GetDataFromJsonFile<T>(string jsonDataFile)
         {
+
             string path = AppDomain.CurrentDomain.BaseDirectory;
             path = path.Replace("bin\\Debug\\", "Data\\");
             string data = File.ReadAllText(string.Format("{0}/{1}", path, jsonDataFile));

@@ -13,6 +13,7 @@ namespace UdemyFramework.Tests
         HomePage homePage;
 
         [Test]
+        [Category("PropertyForPageSection")]
         [Description("This test shows how to break up a large web page using a Property to describe one section")]
         public void TestUsingPropertyForPage()
         {
