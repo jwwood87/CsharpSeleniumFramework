@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NLog;
 using OpenQA.Selenium;
+using UdemyFramework.Common;
 
 namespace UdemyFramework.Pages
 {
@@ -23,6 +24,7 @@ namespace UdemyFramework.Pages
         public void Goto()
         {
             Driver.Navigate().GoToUrl(_searchUrl);
+            Reporter.LogPassingTestStepToBugLogger($"in a browser, go to url=>{_searchUrl}");
         }
 
         public void SearchStringQuery(string searchString)

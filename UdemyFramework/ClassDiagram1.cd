@@ -1,2 +1,136 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UdemyFramework.Utilities" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Common\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.BaseApplicationPage" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pages\BaseApplicationPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.SampleApplicationPage" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAABAAAAkABAAAENAAAAIUgEAAgAAIAAAAACCJA=</HashCode>
+      <FileName>Pages\SampleApplicationPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.UltimateQaHomePage" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pages\UltimateQaHomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Resource1" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAABEAAAAQAAAAAQAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.ContactUs" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tests\ContactUs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.SampleApplicationTests" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAACgEAAABA=</HashCode>
+      <FileName>Tests\SampleApplicationTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.SearchFunctionality" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAABAAA=</HashCode>
+      <FileName>Tests\SearchFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.TestUser" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABgAAAAAAAAgAAAAAAAAAAAgAAACAAAEAA=</HashCode>
+      <FileName>Tests\TestUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Common.Reporter" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Reporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Common.WebDriverFactory" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Common\WebDriverFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Pages.ContactUsPage" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Pages\ContactUsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Pages.HomePage" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>Pages\HomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Pages.SearchPage" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAgAAAAAAYABACIAAAAAAAAAQAIA=</HashCode>
+      <FileName>Pages\SearchPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Pages.Slider" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAQAAAAAAAAAAAEAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Pages\Slider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Tests.BaseTest" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAgAAABAAAAAAAAAAIAAAgAAAAAAAAAAAACA=</HashCode>
+      <FileName>Tests\BaseTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UdemyFramework.Tests.SliderTests" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tests\SliderTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UdemyFramework.Gender" Collapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Tests\TestUser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UdemyFramework.Common.BrowserType" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BrowserType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
