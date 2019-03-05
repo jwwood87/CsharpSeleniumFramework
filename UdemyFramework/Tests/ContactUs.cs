@@ -8,7 +8,7 @@ using UdemyFramework.Tests;
 
 namespace UdemyFramework
 {
-    [TestFixture]
+
     public class ContactUs : BaseTest
     {
         [Test]

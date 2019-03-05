@@ -12,7 +12,8 @@ namespace UdemyFramework.Common
     {
         private static readonly Logger TheLogger = LogManager.GetCurrentClassLogger();
         private static ExtentReports ReportManager { get; set; }
-        private static string ApplicationDebuggingFolder => "c://temp/CreatingReports";
+        private static string extentPath = Path.GetDirectoryName(System.AppDomain.CurrentDomain.BaseDirectory);
+        private static string projectPath = Directory.GetParent(Directory.GetParent(extentPath).FullName).FullName + "\\ExtentReports";
         //---------------------------------------------------
 
         private static string HtmlReportFullPath { get; set; }
@@ -35,7 +36,7 @@ namespace UdemyFramework.Common
 
         private static void CreateReportDirectory()
         {
-            var filePath = Path.GetFullPath(ApplicationDebuggingFolder);
+            var filePath = Path.GetFullPath(projectPath);
             LatestResultsReportFolder = Path.Combine(filePath, DateTime.Now.ToString("MMdd_HHmm"));
             Directory.CreateDirectory(LatestResultsReportFolder);
 

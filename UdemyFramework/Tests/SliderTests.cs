@@ -8,6 +8,7 @@ using UdemyFramework.Pages;
 
 namespace UdemyFramework.Tests
 {
+
     public class SliderTests : BaseTest
     {
         HomePage homePage;
