@@ -21,7 +21,7 @@ namespace UdemyFramework.Common
                 return;
             _driver = driver;
             _testContext = testContext;
-            ScreenshotFileName = _testContext.Test.ToString();
+            ScreenshotFileName = _testContext.Test.Name;
         }
 
         public string ScreenshotFilePath { get; private set; }

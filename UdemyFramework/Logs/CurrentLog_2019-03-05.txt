@@ -1,0 +1,59 @@
+2019-03-05 19:48:56.3491 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 19:48:56.3772 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-05 19:48:58.6755 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-05 19:49:01.5557 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-05 19:49:01.7495 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 19:49:04.4279 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 19:49:04.4388 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-05 19:49:52.4769 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 19:49:52.5027 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-05 19:49:54.4020 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-05 19:49:57.2120 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-05 19:49:57.4957 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 19:49:57.9908 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0305_1949\FAIL_NUnit.Framework.TestContext+TestAdapter.jpg 
+2019-03-05 19:49:57.9908 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 19:50:00.4664 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 19:50:00.4753 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-05 19:50:22.3869 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 19:50:22.4148 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-05 19:50:24.2996 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-05 19:50:28.8474 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-05 19:50:29.0428 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 19:50:31.5757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 19:50:31.5797 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-05 20:13:26.6181 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 20:13:53.1598 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 20:13:53.1598 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 20:13:53.1911 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: UdemyFramework 
+2019-03-05 20:13:53.1911 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:    at UdemyFramework.Common.Reporter.ReportTestOutcome(String screenshotPath) in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\Reporter.cs:line 67
+   at UdemyFramework.Tests.BaseTest.TakeScreenshotForTestFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 86
+   at UdemyFramework.Tests.BaseTest.TearDownBase() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 58 
+2019-03-05 20:13:53.2099 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:  
+2019-03-05 20:13:53.2228 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: Object reference not set to an instance of an object. 
+2019-03-05 20:13:53.2228 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 20:13:53.2382 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-05 20:18:43.7268 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 20:23:07.7334 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 20:23:07.7850 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 20:23:07.7850 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 20:23:07.8008 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: UdemyFramework 
+2019-03-05 20:23:07.8008 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:    at UdemyFramework.Common.Reporter.ReportTestOutcome(String screenshotPath) in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\Reporter.cs:line 82
+   at UdemyFramework.Tests.BaseTest.TakeScreenshotForTestFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 72
+   at UdemyFramework.Tests.BaseTest.TearDownBase() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 44 
+2019-03-05 20:23:07.8197 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:  
+2019-03-05 20:23:07.8316 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: Object reference not set to an instance of an object. 
+2019-03-05 20:23:07.8316 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 20:23:07.8470 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-05 20:23:42.0853 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-05 20:24:34.5199 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-05 20:24:42.0118 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-05 20:24:45.2362 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-05 20:24:52.7981 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests started a method tear down. 
+2019-03-05 20:24:52.8219 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: UdemyFramework 
+2019-03-05 20:24:52.8328 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:    at UdemyFramework.Common.Reporter.ReportTestOutcome(String screenshotPath) in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\Reporter.cs:line 75
+   at UdemyFramework.Tests.BaseTest.TakeScreenshotForTestFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 68
+   at UdemyFramework.Tests.BaseTest.TearDownBase() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 44 
+2019-03-05 20:24:52.8328 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:  
+2019-03-05 20:24:52.8581 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: Object reference not set to an instance of an object. 
+2019-03-05 20:24:53.0062 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: UdemyFramework.Tests.SliderTests.TestUsingPropertyForPage 
+2019-03-05 20:24:53.0062 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 

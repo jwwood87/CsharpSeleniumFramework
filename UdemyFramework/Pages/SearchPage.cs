@@ -23,6 +23,7 @@ namespace UdemyFramework.Pages
 
         public void Goto()
         {
+            _logger.Info("In SearchPage's Goto() method.");
             Driver.Navigate().GoToUrl(_searchUrl);
             Reporter.LogPassingTestStepToBugLogger($"in a browser, go to url=>{_searchUrl}");
         }

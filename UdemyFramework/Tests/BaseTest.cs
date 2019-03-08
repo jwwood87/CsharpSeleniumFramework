@@ -3,10 +3,6 @@ using NUnit.Framework;
 using NUnit.Framework.Internal;
 using OpenQA.Selenium;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UdemyFramework.Common;
 
 namespace UdemyFramework.Tests
@@ -24,8 +20,7 @@ namespace UdemyFramework.Tests
         public void SetupBase()
 
         {
-            Reporter.StartReporter();
-            Console.WriteLine("Name of the test: " + TestContext.CurrentContext.Test.FullName);
+            Console.WriteLine("Name of the test: \t" + TestContext.CurrentContext.Test.FullName);
             _logger.Info("We're in BaseTest, starting the Setup() method.");
             Reporter.AddTestCaseMetadataToHtmlReport(TestContext.CurrentContext);
             _webDriver = new WebDriverFactory();
@@ -51,7 +46,7 @@ namespace UdemyFramework.Tests
             finally
             {
                 StopBrowser();
-                _logger.Debug(TestContext.CurrentContext.Test.FullName);
+                _logger.Debug(TestContext.CurrentContext.Test.Name);
                 _logger.Debug("TEST STOPPED");
             }
 

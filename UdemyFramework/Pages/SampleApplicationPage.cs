@@ -90,7 +90,9 @@ namespace UdemyFramework
 
         internal void GoTo()
         {
+            _logger.Info("In SampleApplicationPage's Goto() method.");
             Driver.Navigate().GoToUrl(_sampleApplicationUrl);
+
             Assert.IsTrue(IsVisible, $"\nExpected:\n{PageTitle} \nbut actually saw:\n{Driver.Title}");
         }
     }

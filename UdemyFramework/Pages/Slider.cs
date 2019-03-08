@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLog;
 using OpenQA.Selenium;
 
 namespace UdemyFramework.Pages
@@ -12,7 +13,7 @@ namespace UdemyFramework.Pages
         public Slider(IWebDriver driver) : base(driver)
         {
         }
-
+        private static Logger _logger = LogManager.GetCurrentClassLogger();
         public string CurrentImage => _homeslider.GetAttribute("style");
 
         IWebElement _homeslider => Driver.FindElement(By.Id("homeslider"));
@@ -21,6 +22,7 @@ namespace UdemyFramework.Pages
 
         internal void ClickNextButton()
         {
+            _logger.Info("In Slider ClickNextButton() method.");
             _NextButton.Click();
         }
 

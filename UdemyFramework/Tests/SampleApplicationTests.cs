@@ -31,7 +31,7 @@ namespace UdemyFramework
         [Author("JohnWood")]
         [Category("Fill-out forms")]
         [Description("This is a test description")]
-        public void TestgoingtoFillOutForm1()
+        public void FillOutFormGenderDefault()
         {
 
             _sampleApplicationPage.GoTo();
@@ -42,7 +42,7 @@ namespace UdemyFramework
 
         [Test]
         [Category("Fill-out forms")]
-        public void Test2()
+        public void FillOutFormGenderOther()
         {
             _myUser.gender = Gender.Other;
             _sampleApplicationPage.GoTo();
@@ -54,7 +54,7 @@ namespace UdemyFramework
         [Test]
         [Category("Fill-out forms")]
 
-        public void Test3()
+        public void FillOutFormWithEmergencyContact()
         {
             _sampleApplicationPage.GoTo();
             UltimateQaHomePage ultimateQaHomePage = _sampleApplicationPage.FillOutUserFormAndSubmit(_myUser);
@@ -66,10 +66,15 @@ namespace UdemyFramework
 
         [Test]
         [Category("DeserializeJson")]
-        public void Test4()
+        public void DeserializeJson()
         {
             TestUser testUser = new TestUser();
             testUser = Utilities.GetDataFromJsonFile<TestUser>("User1.json");
+
+            if (testUser != null)
+                Assert.Pass();
+            else
+                Assert.Fail();
         }
 
     }

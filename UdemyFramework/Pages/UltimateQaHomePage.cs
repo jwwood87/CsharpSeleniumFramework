@@ -9,6 +9,7 @@ namespace UdemyFramework
         {
         }
 
+        // The old way of doing a property
         //public bool? IsVisible
         //{
         //    get => Driver.Title == "Home - Ultimate QA";
