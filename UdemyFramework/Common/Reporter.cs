@@ -45,8 +45,13 @@ namespace UdemyFramework.Common
             CreateReportDirectory();
             //Initialize the Extent Report
             var htmlReporter = new ExtentHtmlReporter(_htmlReportFullPath);
+            htmlReporter.Config.Theme = AventStack.ExtentReports.Reporter.Configuration.Theme.Dark;
+            htmlReporter.Config.ReportName = "John's Report";
             _reportManager = new ExtentReports();
             _reportManager.AttachReporter(htmlReporter);
+            _reportManager.AddSystemInfo("UserName", System.Environment.UserName);
+            _reportManager.AddSystemInfo("Operating System", System.Environment.OSVersion.ToString());
+            _reportManager.AddSystemInfo("Machine", System.Environment.MachineName);
             return _reportManager;
         }
 
@@ -63,6 +68,7 @@ namespace UdemyFramework.Common
         {
             _myTestContext = testContext;
             _currentTestCase = extentInstance.CreateTest(_myTestContext.Test.Name);
+            _currentTestCase.AssignAuthor("John Wood");
         }
 
         public static void LogPassingTestStepToBugLogger(string message)
