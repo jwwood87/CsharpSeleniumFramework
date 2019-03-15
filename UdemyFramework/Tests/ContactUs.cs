@@ -22,5 +22,37 @@ namespace UdemyFramework
 
             Assert.IsTrue(contactUsPage.PageTitle.Contains("Contact"), "The expected page did not appear.");
         }
+
+        [Test]
+        [Author("JohnWood")]
+        [Description("Verify that the Contact Us page opens when clicking the Contact Us button.")]
+        public void ClickContactUs_PageOpens()
+        {
+
+        }
+
+        [Test]
+        [Author("JohnWood")]
+        [Description("ClickSignIn_PageOpens")]
+        public void ClickSignIn_PageOpens()
+        {
+
+        }
+
+        [Test]
+        [Author("JohnWood")]
+        [Description("Submit form for Section of Random Stuff")]
+        public void SectionRandomStuff_SubmitForm_Successful()
+        {
+
+        }
+
+        [Test]
+        [Author("JohnWood")]
+        [Description("Search Complicated Page")]
+        public void ComplicatedPage_SearchString_ResultsAreCorrect()
+        {
+
+        }
     }
 }

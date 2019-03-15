@@ -1,0 +1,100 @@
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0314_1945\FAIL_FillOutFormGenderOther.jpg
+Test Failed=>FillOutFormGenderOther
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://www.automationpractice.com
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchFunctionality started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In HomePage's Goto() method.
+Opened url=>http://automationpractice.com/index.php
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+UdemyFramework.Tests.SliderTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://www.automationpractice.com
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchFunctionality started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In HomePage's Goto() method.
+Opened url=>http://automationpractice.com/index.php
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+UdemyFramework.Tests.SliderTests started a method tear down.
+

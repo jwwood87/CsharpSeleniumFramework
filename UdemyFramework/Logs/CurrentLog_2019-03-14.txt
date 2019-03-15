@@ -1,0 +1,148 @@
+2019-03-14 19:45:43.6687 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:45:43.8258 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:45:46.3159 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.ContactUsPage.GoTo - INFO: In ContactUsPage's Goto() method. 
+2019-03-14 19:45:48.5152 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:45:51.3837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ContactUs1 
+2019-03-14 19:45:51.3837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:45:51.4062 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:45:51.4212 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:45:53.9043 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:45:54.0768 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-14 19:45:54.0837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:45:54.0837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:45:54.1008 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:45:56.3418 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:45:58.9523 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:01.3718 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:01.3838 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:46:01.6167 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-14 19:46:01.6276 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:46:01.6276 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:46:01.6446 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:46:03.7765 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:46:06.0588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:08.2946 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:08.3665 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:46:08.8994 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0314_1945\FAIL_FillOutFormGenderOther.jpg 
+2019-03-14 19:46:08.9143 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>FillOutFormGenderOther 
+2019-03-14 19:46:09.1397 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-14 19:46:09.1487 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:46:09.1577 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:46:09.1577 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:46:11.4193 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:46:13.7058 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:15.9482 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:46:18.2968 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:46:18.5505 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-14 19:46:18.5505 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:46:18.5655 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:46:18.5655 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:46:20.7569 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.SearchPage.Goto - INFO: In SearchPage's Goto() method. 
+2019-03-14 19:46:24.0651 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://www.automationpractice.com 
+2019-03-14 19:46:24.0651 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.SearchPage.SearchStringQuery - INFO: Staring Info logging for SearchStringQuery() 
+2019-03-14 19:46:26.2028 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SearchFunctionality started a method tear down.
+ 
+2019-03-14 19:46:26.4306 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestMethod1 
+2019-03-14 19:46:26.4396 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:46:26.4546 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:46:26.4546 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:46:28.5815 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-14 19:46:31.6244 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-14 19:46:31.6384 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In Slider ClickNextButton() method. 
+2019-03-14 19:46:31.6483 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-14 19:46:31.7471 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In Slider ClickNextButton() method. 
+2019-03-14 19:46:31.7590 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-14 19:46:31.8398 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.Tests.SliderTests started a method tear down.
+ 
+2019-03-14 19:46:32.0635 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-14 19:46:32.0635 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:06.1520 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:06.2298 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:08.2009 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:58:10.8968 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ClickContactUs_PageOpens 
+2019-03-14 19:58:10.9077 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:10.9077 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:10.9337 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:13.0657 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:58:13.2442 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ClickSignIn_PageOpens 
+2019-03-14 19:58:13.2536 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:13.2536 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:13.2746 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:15.4909 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:58:15.6757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-14 19:58:15.6757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:15.6887 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:15.6887 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:17.9161 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.ContactUsPage.GoTo - INFO: In ContactUsPage's Goto() method. 
+2019-03-14 19:58:19.9152 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:58:20.1077 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ContactUs1 
+2019-03-14 19:58:20.1177 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:20.1177 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:20.1367 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:22.3586 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.ContactUs started a method tear down.
+ 
+2019-03-14 19:58:22.5397 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-14 19:58:22.5397 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:22.5557 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:22.5707 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:24.9180 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:58:25.0959 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-14 19:58:25.0959 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:25.0959 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:25.1229 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:27.3461 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:58:30.0192 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:32.2401 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:32.2521 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:58:32.4713 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-14 19:58:32.4713 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:32.4713 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:32.4982 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:34.7065 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:58:37.0476 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:39.0556 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:39.0686 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:58:39.2879 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-14 19:58:39.2879 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:39.3019 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:39.3149 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:41.4259 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In SampleApplicationPage's Goto() method. 
+2019-03-14 19:58:43.9523 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Starting Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:46.0904 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: Finishing Debug logging for FillOutUserFormAndSubmit() method. 
+2019-03-14 19:58:48.5880 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SampleApplicationTests started a method tear down.
+ 
+2019-03-14 19:58:48.8176 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-14 19:58:48.8295 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:48.8295 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:48.8485 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:51.0749 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.SearchPage.Goto - INFO: In SearchPage's Goto() method. 
+2019-03-14 19:58:53.9633 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://www.automationpractice.com 
+2019-03-14 19:58:53.9782 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.SearchPage.SearchStringQuery - INFO: Staring Info logging for SearchStringQuery() 
+2019-03-14 19:58:55.4835 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.SearchFunctionality started a method tear down.
+ 
+2019-03-14 19:58:55.6985 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestMethod1 
+2019-03-14 19:58:55.7055 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
+2019-03-14 19:58:55.7055 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - INFO: We're in BaseTest, starting the Setup() method. 
+2019-03-14 19:58:55.7264 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-14 19:58:57.9505 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In HomePage's Goto() method. 
+2019-03-14 19:59:00.4981 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Opened url=>http://automationpractice.com/index.php 
+2019-03-14 19:59:00.5160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In Slider ClickNextButton() method. 
+2019-03-14 19:59:00.5300 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-14 19:59:00.6327 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In Slider ClickNextButton() method. 
+2019-03-14 19:59:00.6457 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-14 19:59:00.7055 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - INFO: UdemyFramework.Tests.SliderTests started a method tear down.
+ 
+2019-03-14 19:59:00.9196 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-14 19:59:00.9305 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED 
