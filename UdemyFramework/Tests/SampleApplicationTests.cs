@@ -48,7 +48,7 @@ namespace UdemyFramework
             _sampleApplicationPage.GoTo();
             UltimateQaHomePage ultimateQaHomePage = _sampleApplicationPage.FillOutUserFormAndSubmit(_myUser);
 
-            Assert.IsTrue(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
+            Assert.IsFalse(ultimateQaHomePage.IsVisible, "You did not get to the Ultimate QA Page");
         }
 
         [Test]

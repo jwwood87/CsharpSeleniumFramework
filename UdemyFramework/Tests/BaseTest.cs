@@ -31,7 +31,7 @@ namespace UdemyFramework.Tests
         [TearDown]
         public void TearDownBase()
         {
-            _logger.Debug(GetType().FullName + " started a method tear down.");
+            _logger.Info(GetType().FullName + " started a method tear down." + "\n");
             try
             {
                 TakeScreenshotForTestFailure();

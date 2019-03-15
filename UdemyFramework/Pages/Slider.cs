@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NLog;
 using OpenQA.Selenium;
+using UdemyFramework.Common;
 
 namespace UdemyFramework.Pages
 {
@@ -23,6 +24,7 @@ namespace UdemyFramework.Pages
         internal void ClickNextButton()
         {
             _logger.Info("In Slider ClickNextButton() method.");
+            Reporter.LogPassingTestStepToBugLogger("In Slider class, click the next button in the slider.");
             _NextButton.Click();
         }
 
