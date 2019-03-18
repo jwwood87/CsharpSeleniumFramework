@@ -1,0 +1,472 @@
+2019-03-17 19:31:45.1616 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:31:45.1944 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-17 19:31:45.1944 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1931\TestResults.html 
+2019-03-17 19:31:45.2433 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:31:45.2523 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:31:47.1677 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:31:49.8697 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:31:49.9196 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Click the sign in link 
+2019-03-17 19:31:51.4102 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:31:54.1427 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:31:54.1567 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:31:54.1567 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:31:54.1786 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-17 19:31:54.1886 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:31:54.1886 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:31:56.2921 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:31:58.3742 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:32:00.6914 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:32:00.9131 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:32:00.9221 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-17 19:32:00.9221 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:32:00.9221 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-17 19:32:00.9450 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:32:00.9590 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:32:03.0545 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:32:05.2897 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:32:07.5993 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:32:07.8247 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:32:07.8357 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-17 19:32:07.8357 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:32:07.8526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-17 19:32:07.8526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:32:07.8716 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:32:09.9642 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:32:12.0366 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:32:14.6979 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-17 19:32:16.7649 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:32:16.9535 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:32:16.9535 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-17 19:32:16.9694 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:32:42.6762 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 19:32:42.7160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-17 19:32:42.7250 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1932\TestResults.html 
+2019-03-17 19:32:42.7799 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:32:42.7938 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:32:44.7765 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:32:46.6526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SearchLeftBox - INFO: Search using the left-side search box. 
+2019-03-17 19:32:48.0779 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:32:50.9473 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:32:50.9583 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 19:32:50.9583 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:32:50.9772 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 19:32:50.9882 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:32:51.0082 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:32:53.1164 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:32:55.9244 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:32:55.9433 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs - INFO: In the AutomationPracticePpage, click ContactUs. 
+2019-03-17 19:32:57.0875 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:32:57.2932 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:32:57.3022 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 19:32:57.3022 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:32:57.3022 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:32:57.3242 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:32:57.3386 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:32:59.3940 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:33:02.3886 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:33:02.4041 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Click the sign in link 
+2019-03-17 19:33:04.1254 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:04.3415 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:04.3515 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:33:04.3515 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:04.3644 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:33:04.3644 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:04.3903 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:06.4835 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:33:08.2071 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form 
+2019-03-17 19:33:08.9371 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 19:33:09.5819 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1932\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg 
+2019-03-17 19:33:09.5819 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:33:09.6019 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test failed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:09.7916 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:09.8016 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:33:09.8016 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:09.8216 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-17 19:33:09.8216 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:09.8565 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:12.0643 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:12.2240 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:12.2360 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-17 19:33:12.2360 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:12.2522 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-17 19:33:12.2522 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:12.2749 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:14.3856 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:33:16.5754 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:33:18.7671 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:18.9885 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:18.9885 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-17 19:33:19.0054 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:19.0165 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-17 19:33:19.0165 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:19.0374 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:21.1030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:33:23.2829 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:33:25.6151 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:25.8377 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:25.8487 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-17 19:33:25.8487 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:25.8627 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-17 19:33:25.8627 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:25.8879 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:27.9881 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4 
+2019-03-17 19:33:30.1370 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:33:32.7222 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-17 19:33:34.8724 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:35.1030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:35.1160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-17 19:33:35.1160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:35.1329 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-17 19:33:35.1329 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:35.1599 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:37.2403 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:33:40.0620 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:33:40.0789 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery - INFO: Search for blouse 
+2019-03-17 19:33:40.2606 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName - INFO: Evaluate the product name. 
+2019-03-17 19:33:40.3057 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: WebDriver 
+2019-03-17 19:33:40.3364 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at UdemyFramework.Common.ScreenshotTaker.GetScreenshot() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 58
+   at UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 49
+   at UdemyFramework.Common.ScreenshotTaker.CreateScreenshotIfTestFailed() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 34
+   at UdemyFramework.Tests.BaseTest.TakeScreenshotForTestFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 56
+   at UdemyFramework.Tests.BaseTest.TearDownBase() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 35 
+2019-03-17 19:33:40.3707 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR:  
+2019-03-17 19:33:40.4123 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - ERROR: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) 
+2019-03-17 19:33:40.5805 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:40.5805 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Search_ProvideString_Success 
+2019-03-17 19:33:40.5805 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:33:40.5965 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-17 19:33:40.5965 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:33:40.6154 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:33:42.7017 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:33:46.0250 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 19:33:46.0440 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 19:33:46.1517 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 19:33:46.1657 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 19:33:46.2676 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method.
+ 
+2019-03-17 19:33:46.4619 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:33:46.4619 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-17 19:33:46.4789 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:42:52.2453 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 19:42:52.2802 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-17 19:42:52.2862 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1942\TestResults.html 
+2019-03-17 19:42:52.3321 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:42:52.3450 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:42:54.2387 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:42:54.2387 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:42:56.2491 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SearchLeftBox - INFO: Search using the left-side search box. 
+2019-03-17 19:42:56.2781 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Search using the left-side search box. 
+2019-03-17 19:42:57.6857 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:00.6173 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:00.6288 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 19:43:00.6288 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:00.6472 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:00.6662 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 19:43:00.6742 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:00.6935 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:02.7936 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:43:05.4267 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:43:05.4443 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs - INFO: In the AutomationPracticePpage, click ContactUs. 
+2019-03-17 19:43:06.4813 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:06.7423 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:06.7423 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 19:43:06.7582 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:06.7582 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:06.7781 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:43:06.7844 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:06.7974 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:08.8955 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:43:12.1061 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:43:12.1256 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Click the sign in link 
+2019-03-17 19:43:13.6666 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:13.8804 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:13.8914 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 19:43:13.8914 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:13.8914 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:13.9223 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:43:13.9223 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:13.9472 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:16.0428 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:43:16.0568 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 19:43:18.0293 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 19:43:18.0443 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 19:43:18.7428 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 19:43:18.7558 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 19:43:19.4314 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure - ERROR: Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1942\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg 
+2019-03-17 19:43:19.4434 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome - ERROR: Test Failed=>SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:43:19.4583 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test failed from ReportTestOutcome method 
+2019-03-17 19:43:19.6622 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:19.6742 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 19:43:19.6742 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:19.6892 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:19.7101 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-17 19:43:19.7201 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:19.7201 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:21.9406 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:22.0807 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:22.0807 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-17 19:43:22.0976 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:22.0976 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:22.1266 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-17 19:43:22.1266 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:22.1525 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:24.2571 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:24.2681 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:26.3943 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:43:28.6728 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:28.8927 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:28.8927 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-17 19:43:28.9086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:28.9086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:28.9356 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-17 19:43:28.9431 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:28.9691 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:31.0698 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:31.0798 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:33.2658 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:43:35.4257 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:35.6550 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:35.6600 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-17 19:43:35.6600 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:35.6760 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:35.6929 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-17 19:43:35.7039 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:35.7239 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:37.8237 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:37.8346 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 19:43:39.9886 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 19:43:42.4544 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-17 19:43:44.5589 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:44.7837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:44.7837 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-17 19:43:44.7986 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:44.7986 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:44.8225 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-17 19:43:44.8347 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:44.8505 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:46.8909 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:43:49.7177 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 19:43:49.7376 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery - INFO: Search for blouse 
+2019-03-17 19:43:51.2351 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName - INFO: Evaluate the product name. 
+2019-03-17 19:43:51.3211 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:51.5009 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:51.5009 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Search_ProvideString_Success 
+2019-03-17 19:43:51.5160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:51.5160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 19:43:51.5458 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-17 19:43:51.5538 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 19:43:51.5707 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 19:43:53.6653 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 19:43:56.7351 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 19:43:56.7351 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 19:43:56.8547 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 19:43:56.8698 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 19:43:56.9787 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 19:43:57.1861 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 19:43:57.1980 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-17 19:43:57.2030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 19:43:57.2030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped. 
+2019-03-17 20:19:11.0813 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 20:19:11.1152 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-17 20:19:11.1152 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_2019\TestResults.html 
+2019-03-17 20:19:11.1612 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:19:11.1721 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:19:14.2666 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:14.2855 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:17.1153 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 20:19:17.1391 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 20:19:17.8925 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 20:19:17.9064 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 20:19:19.2657 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:19:21.9384 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:19:21.9384 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 20:19:21.9603 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:19:21.9603 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:19:28.0278 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 20:19:28.0617 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-17 20:19:28.0687 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_2019\TestResults.html 
+2019-03-17 20:19:28.1117 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:19:28.1117 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:19:31.1555 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:31.1735 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:32.9507 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SearchLeftBox - INFO: Search using the left-side search box. 
+2019-03-17 20:19:32.9657 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Search using the left-side search box. 
+2019-03-17 20:19:34.7229 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:19:37.6113 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:19:37.6113 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-17 20:19:37.6272 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:19:37.6412 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:19:37.6622 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 20:19:37.6762 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:19:37.6931 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:19:40.9237 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 20:19:40.9426 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In the browser, navigate to {_searchUrl}. 
+2019-03-17 20:19:43.7879 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 20:19:43.8055 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs - INFO: In the AutomationPracticePpage, click ContactUs. 
+2019-03-17 20:19:43.8184 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In the AutomationPracticePpage, click ContactUs. 
+2019-03-17 20:19:45.6720 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:19:45.8806 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:19:45.8806 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-17 20:19:45.8986 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:19:45.9066 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:19:45.9245 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 20:19:45.9405 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:19:45.9614 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:19:49.1878 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 20:19:49.2047 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In the browser, navigate to {_searchUrl}. 
+2019-03-17 20:19:52.0754 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 20:19:52.0919 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Click the sign in link 
+2019-03-17 20:19:52.1088 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Click the Sign In link. 
+2019-03-17 20:19:54.3519 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:19:54.6395 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:19:54.6474 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-17 20:19:54.6474 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:19:54.6568 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:19:54.6568 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 20:19:54.6783 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:19:54.6877 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:19:57.9197 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:57.9377 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-17 20:19:59.8508 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 20:19:59.8687 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-17 20:20:00.5486 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 20:20:00.5635 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Answer the Captcha problem and submit the form. 
+2019-03-17 20:20:01.8613 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:02.0921 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:02.1021 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-17 20:20:02.1110 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:02.1110 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:02.1400 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-17 20:20:02.1489 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:02.1581 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:05.5621 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:05.7542 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:05.7661 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-17 20:20:05.7661 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:05.7851 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:05.8030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-17 20:20:05.8141 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:05.8141 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:09.0631 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:09.0851 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:11.4117 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 20:20:14.0820 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:14.3061 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:14.3171 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-17 20:20:14.3290 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:14.3290 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:14.3639 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-17 20:20:14.3639 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:14.3819 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:17.5639 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:17.5809 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:19.8381 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 20:20:21.9051 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:22.1343 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:22.1463 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-17 20:20:22.1463 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:22.1632 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:22.1802 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-17 20:20:22.1802 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:22.2021 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:25.4295 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:25.4545 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-17 20:20:27.7235 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-17 20:20:30.6086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-17 20:20:32.7923 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:33.0815 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:33.0815 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-17 20:20:33.0964 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:33.0964 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:33.1144 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-17 20:20:33.1144 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:33.1349 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:36.3655 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: In browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 20:20:36.3864 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: In the browser, navigate to {_searchUrl}. 
+2019-03-17 20:20:39.6950 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: in a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-17 20:20:39.7103 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery - INFO: Search for blouse 
+2019-03-17 20:20:39.7272 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Search for {searchString}. 
+2019-03-17 20:20:41.1955 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName - INFO: Evaluate the product name. 
+2019-03-17 20:20:41.2134 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Evaluate the product name. 
+2019-03-17 20:20:41.2919 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:41.4961 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:41.5081 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Search_ProvideString_Success 
+2019-03-17 20:20:41.5081 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:41.5250 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 
+2019-03-17 20:20:41.5420 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-17 20:20:41.5470 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-17 20:20:41.5709 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-17 20:20:44.8075 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-17 20:20:47.7745 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 20:20:47.7905 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 20:20:47.9104 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-17 20:20:47.9269 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-17 20:20:48.0092 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-17 20:20:48.2607 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-17 20:20:48.2736 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-17 20:20:48.2736 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-17 20:20:48.2916 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 

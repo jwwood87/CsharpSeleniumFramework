@@ -1,0 +1,236 @@
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+Click the sign in link
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+Click the sign in link
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form
+Answer the Captcha problem and submit the form.
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1932\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg
+Test Failed=>SectionRandomStuff_SubmitForm_Successful
+Test failed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+Search for blouse
+Evaluate the product name.
+WebDriver
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at UdemyFramework.Common.ScreenshotTaker.GetScreenshot() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 58
+   at UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 49
+   at UdemyFramework.Common.ScreenshotTaker.CreateScreenshotIfTestFailed() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Common\ScreenshotTaker.cs:line 34
+   at UdemyFramework.Tests.BaseTest.TakeScreenshotForTestFailure() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 56
+   at UdemyFramework.Tests.BaseTest.TearDownBase() in C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\Tests\BaseTest.cs:line 35
+
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64)
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+Click the sign in link
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0317_1942\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg
+Test Failed=>SectionRandomStuff_SubmitForm_Successful
+Test failed from ReportTestOutcome method
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+in a browser, go to url=>http://automationpractice.com/index.php
+Search for blouse
+Evaluate the product name.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Test stopped.
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+In the AutomationPracticePpage, click ContactUs.
+In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+Click the sign in link
+Click the Sign In link.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+Search for blouse
+Search for {searchString}.
+Evaluate the product name.
+Evaluate the product name.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Test stopped.
+

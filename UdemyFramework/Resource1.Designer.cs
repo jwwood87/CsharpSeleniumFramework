@@ -61,6 +61,15 @@ namespace UdemyFramework {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to http://automationpractice.com/index.php.
+        /// </summary>
+        internal static string AutomationPracticeUrl {
+            get {
+                return ResourceManager.GetString("AutomationPracticeUrl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to http://automationpractice.com/index.php?controller=contact.
         /// </summary>
         internal static string ContactUsUrl {
@@ -70,11 +79,20 @@ namespace UdemyFramework {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to http://automationpractice.com/index.php.
+        ///   Looks up a localized string similar to https://www.ultimateqa.com/sample-application-lifecycle-sprint-4.
         /// </summary>
-        internal static string HomePageUrl {
+        internal static string Sprint4Url {
             get {
-                return ResourceManager.GetString("HomePageUrl", resourceCulture);
+                return ResourceManager.GetString("Sprint4Url", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to https://www.ultimateqa.com/complicated-page/.
+        /// </summary>
+        internal static string UltimateComplicatedUrl {
+            get {
+                return ResourceManager.GetString("UltimateComplicatedUrl", resourceCulture);
             }
         }
     }

@@ -7,21 +7,21 @@ using UdemyFramework.Tests;
 namespace UdemyFramework
 {
     [TestFixture]
-    public class SearchFunctionality : BaseTest
+    public class SearchTests : BaseTest
     {
-        SearchPage _searchPage;
+        AutomationPracticePage _searchPage;
 
         [SetUp]
         public void SetUpPerTest()
         {
-            _searchPage = new SearchPage(Driver);
+            _searchPage = new AutomationPracticePage(Driver);
         }
 
         [Test]
         [Description("Test the search capability")]
         [Category("Search")]
         [Author("JohnWood")]
-        public void TestMethod1()
+        public void Search_ProvideString_Success()
         {
             _searchPage.Goto();
             _searchPage.SearchStringQuery("blouse");

@@ -1,0 +1,275 @@
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUs started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://www.automationpractice.com
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchFunctionality started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In HomePage's Goto() method.
+Opened url=>http://automationpractice.com/index.php
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+UdemyFramework.Tests.SliderTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://www.automationpractice.com
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In HomePage's Goto() method.
+Opened url=>http://automationpractice.com/index.php
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+UdemyFramework.Tests.SliderTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In ContactUsPage's Goto() method.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_1650\FAIL_OpenAutomationPractice_ClickSignIn_FillOutForm.jpg
+Test Failed=>OpenAutomationPractice_ClickSignIn_FillOutForm
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SampleApplicationPage's Goto() method.
+UdemyFramework.SampleApplicationTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+Staring Info logging for SearchStringQuery()
+UdemyFramework.SearchTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In HomePage's Goto() method.
+Opened url=>http://automationpractice.com/index.php
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+In Slider ClickNextButton() method.
+In Slider class, click the next button in the slider.
+UdemyFramework.Tests.SliderTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_1653\FAIL_OpenAutomationPractice_ClickSignIn_FillOutForm.jpg
+Test Failed=>OpenAutomationPractice_ClickSignIn_FillOutForm
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_1655\FAIL_OpenAutomationPractice_ClickSignIn_FillOutForm.jpg
+Test Failed=>OpenAutomationPractice_ClickSignIn_FillOutForm
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_1659\FAIL_OpenAutomationPractice_ClickSignIn_FillOutForm.jpg
+Test Failed=>OpenAutomationPractice_ClickSignIn_FillOutForm
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+In SearchPage's Goto() method.
+in a browser, go to url=>http://automationpractice.com/index.php
+UdemyFramework.ContactUsTests started a method tear down.
+
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_2147\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg
+Test Failed=>SectionRandomStuff_SubmitForm_Successful
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_2152\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg
+Test Failed=>SectionRandomStuff_SubmitForm_Successful
+We're in BaseTest, starting the Setup() method.
+In the WebDriverFactory, creating a WebDriver.
+UdemyFramework.ContactUsTests started a method tear down.
+
+Screenshot Of Error=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0316_2155\FAIL_SectionRandomStuff_SubmitForm_Successful.jpg
+Test Failed=>SectionRandomStuff_SubmitForm_Successful

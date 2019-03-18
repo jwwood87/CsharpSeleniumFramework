@@ -5,6 +5,8 @@ namespace UdemyFramework
 {
     internal class UltimateQaHomePage : BaseApplicationPage
     {
+        public bool? IsVisible => Driver.Title == "Home - Ultimate QA";
+
         public UltimateQaHomePage(IWebDriver driver) :base(driver)
         {
         }
@@ -16,6 +18,6 @@ namespace UdemyFramework
         //    set => IsVisible = value;
         //}
 
-        public bool? IsVisible => Driver.Title == "Home - Ultimate QA";
+
     }
 }

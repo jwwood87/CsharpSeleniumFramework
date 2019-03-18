@@ -1,21 +1,17 @@
 ﻿using System;
+using AventStack.ExtentReports;
 using NLog;
 using NUnit.Framework;
 using OpenQA.Selenium;
+using UdemyFramework.Common;
 
 namespace UdemyFramework
 {
     internal class SampleApplicationPage : BaseApplicationPage
     {
-
-        public SampleApplicationPage(IWebDriver driver) : base(driver)
-        {
-        }
-
-        public bool? IsVisible => Driver.Title.Contains(PageTitle);
-        public string PageTitle => "Sample Application Lifecycle - Sprint 4 - Ultimate QA";
+        public bool? IsVisible => Driver.Title.Contains(_pageTitle);
+        string _pageTitle => "Sample Application Lifecycle - Sprint 4 - Ultimate QA";
         Logger _logger = LogManager.GetCurrentClassLogger();
-        string _sampleApplicationUrl = "https://www.ultimateqa.com/sample-application-lifecycle-sprint-4";
         IWebElement _submitButton => Driver.FindElement(By.CssSelector("input[type='submit']"));
         IWebElement _firstName => Driver.FindElement(By.Name("firstname"));
         IWebElement _lastName => Driver.FindElement(By.Name("lastname"));
@@ -29,20 +25,23 @@ namespace UdemyFramework
         IWebElement _emergencyFemaleRadio => Driver.FindElement(By.Id("radio2-f"));
         IWebElement _emergencyOtherRadio => Driver.FindElement(By.Id("radio2-0"));
 
+        public SampleApplicationPage(IWebDriver driver) : base(driver)
+        {
+        }
+
         internal UltimateQaHomePage FillOutUserFormAndSubmit(TestUser user)
         {
-            _logger.Debug("Starting Debug logging for FillOutUserFormAndSubmit() method.");
+            _logger.Debug("In the SampleAppication page, fill out the user form and submit.");
             _firstName.SendKeys(user.firstName);
             _lastName.SendKeys(user.lastName);
             ClickGenderButton(user);
             _submitButton.Click();
-            _logger.Debug("Finishing Debug logging for FillOutUserFormAndSubmit() method.");
             return new UltimateQaHomePage(Driver);
         }
-
         
         internal UltimateQaHomePage FillOutEmergencyContactFormAndSubmit(TestUser myUser)
         {
+            _logger.Debug("In the SampleAppication page, fill out the emergency contact form and submit.");
             _emergencyFirstName.SendKeys(myUser.emergencyFirstName);
             _emergencyLastName.SendKeys(myUser.emergencyLastName);
             ClickEmergencyGender(myUser);
@@ -90,10 +89,9 @@ namespace UdemyFramework
 
         internal void GoTo()
         {
-            _logger.Info("In SampleApplicationPage's Goto() method.");
-            Driver.Navigate().GoToUrl(_sampleApplicationUrl);
-
-            Assert.IsTrue(IsVisible, $"\nExpected:\n{PageTitle} \nbut actually saw:\n{Driver.Title}");
+            _logger.Info("In a browser, navigate to {Resource1.Sprint4Url}.");
+            Reporter.LogTestStepForBugLogger(Status.Info, "In a browser, navigate to {Resource1.Sprint4Url}.");
+            Driver.Navigate().GoToUrl(Resource1.Sprint4Url);
         }
     }
 }

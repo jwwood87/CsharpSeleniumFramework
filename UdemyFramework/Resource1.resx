@@ -117,10 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AutomationPracticeUrl" xml:space="preserve">
+    <value>http://automationpractice.com/index.php</value>
+  </data>
   <data name="ContactUsUrl" xml:space="preserve">
     <value>http://automationpractice.com/index.php?controller=contact</value>
   </data>
-  <data name="HomePageUrl" xml:space="preserve">
-    <value>http://automationpractice.com/index.php</value>
+  <data name="Sprint4Url" xml:space="preserve">
+    <value>https://www.ultimateqa.com/sample-application-lifecycle-sprint-4</value>
+  </data>
+  <data name="UltimateComplicatedUrl" xml:space="preserve">
+    <value>https://www.ultimateqa.com/complicated-page/</value>
   </data>
 </root>

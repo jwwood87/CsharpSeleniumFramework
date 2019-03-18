@@ -103,7 +103,7 @@
     <Compile Include="Pages\BaseApplicationPage.cs" />
     <Compile Include="Pages\ContactUsPage.cs" />
     <Compile Include="Pages\HomePage.cs" />
-    <Compile Include="Pages\SearchPage.cs" />
+    <Compile Include="Pages\AutomationPracticePage.cs" />
     <Compile Include="Pages\Slider.cs" />
     <Compile Include="Resource1.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -111,15 +111,17 @@
       <DependentUpon>Resource1.resx</DependentUpon>
     </Compile>
     <Compile Include="Tests\BaseTest.cs" />
-    <Compile Include="Tests\ContactUs.cs" />
-    <Compile Include="Tests\SearchFunctionality.cs" />
+    <Compile Include="Tests\ContactUsTests.cs" />
+    <Compile Include="Tests\SearchTests.cs" />
     <Compile Include="Tests\SampleApplicationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pages\SampleApplicationPage.cs" />
+    <Compile Include="Pages\SignInPage.cs" />
     <Compile Include="Tests\SliderTests.cs" />
     <Compile Include="Tests\TestUser.cs" />
     <Compile Include="Pages\UltimateQaHomePage.cs" />
     <Compile Include="Common\Utilities.cs" />
+    <Compile Include="Pages\UltimateComplicatedPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />

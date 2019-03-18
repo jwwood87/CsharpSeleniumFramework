@@ -10,6 +10,5 @@ namespace UdemyFramework
         {
             Driver = driver;
         }
-
     }
 }

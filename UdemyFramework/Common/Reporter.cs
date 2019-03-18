@@ -11,7 +11,7 @@ namespace UdemyFramework.Common
 {
     public class Reporter
     {
-        public Reporter() { }
+        //public Reporter() { }
 
         private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
         private static ExtentReports _reportManager { get; set; }
@@ -84,10 +84,10 @@ namespace UdemyFramework.Common
             switch (status)
             {
                 case TestStatus.Failed:
-                    Console.WriteLine("Reporter.ReportTestOutcome: Failed");
                     _logger.Error($"Test Failed=>{_myTestContext.Test.Name}");
                     _currentTestCase.AddScreenCaptureFromPath(screenshotPath);
                     _currentTestCase.Fail("Fail");
+                    LogTestStepForBugLogger(Status.Fail, "Test failed from ReportTestOutcome method");
                     break;
                 case TestStatus.Inconclusive:
                     _currentTestCase.AddScreenCaptureFromPath(screenshotPath);
@@ -95,13 +95,13 @@ namespace UdemyFramework.Common
                     break;
                 case TestStatus.Skipped:
                     _currentTestCase.Skip("Test skipped");
+                    LogTestStepForBugLogger(Status.Skip, "Test was skipped from ReportTestOutcome method.");
                     break;
                 default:
-                    Console.WriteLine("Reporter.ReportTestOutcome: Passed");
                     _currentTestCase.Pass($"Test Passed");
+                    LogTestStepForBugLogger(Status.Pass, "Test passed from ReportTestOutcome method.");
                     break;
-            }
-            
+            }            
             _reportManager.Flush();
         }
 

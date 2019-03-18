@@ -1,4 +1,5 @@
-﻿using NLog;
+﻿using AventStack.ExtentReports;
+using NLog;
 using NUnit.Framework;
 using NUnit.Framework.Internal;
 using OpenQA.Selenium;
@@ -20,18 +21,17 @@ namespace UdemyFramework.Tests
         public void SetupBase()
 
         {
-            Console.WriteLine("Name of the test: \t" + TestContext.CurrentContext.Test.FullName);
-            _logger.Info("We're in BaseTest, starting the Setup() method.");
+            _logger.Debug("We're in BaseTest, Setup(), test name: " + TestContext.CurrentContext.Test.Name);
             Reporter.AddTestCaseMetadataToHtmlReport(TestContext.CurrentContext);
             _webDriver = new WebDriverFactory();
             _driver = _webDriver.CreateDriver(BrowserType.Chrome);
+            Driver.Manage().Window.Maximize();
             screenshotTaker = new ScreenshotTaker(Driver, TestContext.CurrentContext);
         }
 
         [TearDown]
         public void TearDownBase()
         {
-            _logger.Info(GetType().FullName + " started a method tear down." + "\n");
             try
             {
                 TakeScreenshotForTestFailure();
@@ -47,10 +47,9 @@ namespace UdemyFramework.Tests
             {
                 StopBrowser();
                 _logger.Debug(TestContext.CurrentContext.Test.Name);
-                _logger.Debug("TEST STOPPED");
+                _logger.Debug("TEST STOPPED\n");
+                Reporter.LogTestStepForBugLogger(Status.Info, "Test stopped.\n");
             }
-
-
         }
 
         private void TakeScreenshotForTestFailure()
@@ -72,7 +71,7 @@ namespace UdemyFramework.Tests
                 return;
             Driver.Quit();
             Driver = null;
-            _logger.Trace("Browser stopped successfully.");
+            _logger.Debug("Browser stopped successfully.");
         }
     }
 }

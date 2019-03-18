@@ -11,22 +11,22 @@ namespace UdemyFramework.Pages
 {
     public class Slider : BaseApplicationPage
     {
-        public Slider(IWebDriver driver) : base(driver)
-        {
-        }
         private static Logger _logger = LogManager.GetCurrentClassLogger();
-        public string CurrentImage => _homeslider.GetAttribute("style");
 
+        public string CurrentImage => _homeslider.GetAttribute("style");
         IWebElement _homeslider => Driver.FindElement(By.Id("homeslider"));
         IWebElement _NextButton => Driver.FindElement(By.ClassName("bx-next"));
         IWebElement _PreviousButton => Driver.FindElement(By.ClassName("bx-prev"));
 
+        public Slider(IWebDriver driver) : base(driver)
+        {
+        }
+
         internal void ClickNextButton()
         {
-            _logger.Info("In Slider ClickNextButton() method.");
+            _logger.Info("In the Slider section, click the next button.");
             Reporter.LogPassingTestStepToBugLogger("In Slider class, click the next button in the slider.");
             _NextButton.Click();
         }
-
     }
 }

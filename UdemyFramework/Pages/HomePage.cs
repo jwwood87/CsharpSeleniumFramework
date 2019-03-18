@@ -11,21 +11,17 @@ namespace UdemyFramework.Pages
         //Logger should 'live' in each page object class for functional test automation
         private static Logger _logger = LogManager.GetCurrentClassLogger();
 
+        public Slider Slider { get; set; }
+
         public HomePage(IWebDriver driver) : base(driver)
         {
             Slider = new Slider(driver);
         }
 
-        public Slider Slider { get; set; }
-
         internal void Goto()
         {
-            _logger.Info("In HomePage's Goto() method.");
-            Driver.Navigate().GoToUrl(Resource1.HomePageUrl);
-            _logger.Info($"Opened url=>{Resource1.HomePageUrl}");
-            
+            _logger.Info("In a browser, navigate to " + Resource1.AutomationPracticeUrl);
+            Driver.Navigate().GoToUrl(Resource1.AutomationPracticeUrl);
         }
-
-
     }
 }
