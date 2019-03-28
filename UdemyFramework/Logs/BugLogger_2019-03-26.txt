@@ -1,0 +1,9 @@
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Test stopped.
+

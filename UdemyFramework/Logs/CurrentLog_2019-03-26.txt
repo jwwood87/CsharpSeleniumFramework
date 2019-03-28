@@ -1,0 +1,17 @@
+2019-03-26 20:54:59.8700 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-26 20:54:59.9438 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-26 20:54:59.9528 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0326_2054\TestResults.html 
+2019-03-26 20:55:00.0419 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: In the WebDriverFactory, creating a WebDriver. 
+2019-03-26 20:55:00.0419 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Here's your WebDriver 
+2019-03-26 20:55:03.3818 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-26 20:55:06.3246 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-26 20:55:06.3376 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-26 20:55:06.4702 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: In the Slider section, click the next button. 
+2019-03-26 20:55:06.4792 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: In Slider class, click the next button in the slider. 
+2019-03-26 20:55:06.5690 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-26 20:55:09.4075 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Browser stopped successfully. 
+2019-03-26 20:55:09.4075 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-26 20:55:09.4204 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TEST STOPPED
+ 
+2019-03-26 20:55:09.4204 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test stopped.
+ 

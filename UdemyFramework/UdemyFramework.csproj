@@ -101,6 +101,7 @@
     <Compile Include="Common\ScreenshotTaker.cs" />
     <Compile Include="Common\WebDriverFactory.cs" />
     <Compile Include="Pages\BaseApplicationPage.cs" />
+    <Compile Include="Pages\ComplicatedLeftPane.cs" />
     <Compile Include="Pages\ContactUsPage.cs" />
     <Compile Include="Pages\HomePage.cs" />
     <Compile Include="Pages\AutomationPracticePage.cs" />
@@ -132,7 +133,9 @@
     <None Include="NLog.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resource1.resx">

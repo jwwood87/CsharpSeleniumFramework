@@ -1,0 +1,253 @@
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Search using the left-side search box.
+Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+In the AutomationPracticePpage, click ContactUs.
+In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+Click the sign in link
+Click the Sign In link.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to {Resource1.Sprint4Url}.
+In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In browser, navigate to http://automationpractice.com/index.php
+In the browser, navigate to {_searchUrl}.
+in a browser, go to url=>http://automationpractice.com/index.php
+Search for blouse
+Search for {searchString}.
+Evaluate the product name.
+Evaluate the product name.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+In the Slider section, click the next button.
+In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Log file: Search using the left-side search box.
+Extent Report: Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: In the AutomationPracticePpage, click ContactUs.
+Extent Report: In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: Click the sign in link
+Extent Report: Click the Sign In link.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: Search for blouse
+Extent Report: Search for {searchString}.
+Log file: Evaluate the product name.
+Extent Report: Evaluate the product name.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to http://automationpractice.com/index.php
+Log file: In the Slider section, click the next button.
+Extent Report: In Slider class, click the next button in the slider.
+Log file: In the Slider section, click the next button.
+Extent Report: In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Log file: Search using the left-side search box.
+Extent Report: Search using the left-side search box.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: In the AutomationPracticePpage, click ContactUs.
+Extent Report: In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: Click the sign in link
+Extent Report: Click the Sign In link.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to {Resource1.Sprint4Url}.
+Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In the browser, navigate to http://automationpractice.com/index.php
+$Extent Report: In the browser, navigate to {_searchUrl}.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: Search for blouse
+Extent Report: Search for {searchString}.
+Log file: Evaluate the product name.
+Extent Report: Evaluate the product name.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: In a browser, navigate to http://automationpractice.com/index.php
+Log file: In the Slider section, click the next button.
+Extent Report: In Slider class, click the next button in the slider.
+Log file: In the Slider section, click the next button.
+Extent Report: In Slider class, click the next button in the slider.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+

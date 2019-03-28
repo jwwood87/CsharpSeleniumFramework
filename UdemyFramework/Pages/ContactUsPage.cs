@@ -15,7 +15,7 @@ namespace UdemyFramework.Pages
 
         internal void GoTo()
         {
-            _logger.Info("In ContactUsPage's Goto() method.");
+            _logger.Info("Log file: In ContactUsPage's Goto() method.");
             Driver.Navigate().GoToUrl(Resource1.ContactUsUrl);
         }
     }

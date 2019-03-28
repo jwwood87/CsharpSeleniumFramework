@@ -17,7 +17,5 @@ namespace UdemyFramework
         //    get => Driver.Title == "Home - Ultimate QA";
         //    set => IsVisible = value;
         //}
-
-
     }
 }

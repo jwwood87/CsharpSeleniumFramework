@@ -20,12 +20,13 @@ namespace UdemyFramework.Pages
 
         public Slider(IWebDriver driver) : base(driver)
         {
+            Driver = driver;
         }
 
         internal void ClickNextButton()
         {
-            _logger.Info("In the Slider section, click the next button.");
-            Reporter.LogPassingTestStepToBugLogger("In Slider class, click the next button in the slider.");
+            _logger.Info("Log file: In the Slider section, click the next button.");
+            Reporter.LogPassingTestStepToBugLogger("Extent Report: In Slider class, click the next button in the slider.");
             _NextButton.Click();
         }
     }

@@ -40,7 +40,7 @@ namespace UdemyFramework.Common
 
         public static ExtentReports CreateSingletonReporter()
         {
-            _logger.Trace("Starting a one time setup for the entire" +
+            _logger.Trace("Log file: Starting a one time setup for the entire" +
                             " .CreatingReports namespace. Initializing the reporter next...");
             CreateReportDirectory();
             //Initialize the Extent Report
@@ -61,7 +61,7 @@ namespace UdemyFramework.Common
             LatestResultsReportFolder = Path.Combine(filePath, DateTime.Now.ToString("MMdd_HHmm"));
             Directory.CreateDirectory(LatestResultsReportFolder);
             _htmlReportFullPath = $"{LatestResultsReportFolder}\\TestResults.html";
-            _logger.Trace("Full path of HTML report=>" + _htmlReportFullPath);
+            _logger.Trace("Log file: Full path of HTML report=>" + _htmlReportFullPath);
         }
 
         public static void AddTestCaseMetadataToHtmlReport(TestContext testContext)
@@ -84,7 +84,7 @@ namespace UdemyFramework.Common
             switch (status)
             {
                 case TestStatus.Failed:
-                    _logger.Error($"Test Failed=>{_myTestContext.Test.Name}");
+                    _logger.Error($"Log file: Test Failed=>{_myTestContext.Test.Name}");
                     _currentTestCase.AddScreenCaptureFromPath(screenshotPath);
                     _currentTestCase.Fail("Fail");
                     LogTestStepForBugLogger(Status.Fail, "Test failed from ReportTestOutcome method");
@@ -98,7 +98,7 @@ namespace UdemyFramework.Common
                     LogTestStepForBugLogger(Status.Skip, "Test was skipped from ReportTestOutcome method.");
                     break;
                 default:
-                    _currentTestCase.Pass($"Test Passed");
+                    _currentTestCase.Pass($"Extent Report: Test Passed");
                     LogTestStepForBugLogger(Status.Pass, "Test passed from ReportTestOutcome method.");
                     break;
             }            

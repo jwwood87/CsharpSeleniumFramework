@@ -63,7 +63,7 @@ namespace UdemyFramework
         public void ComplicatedPage_SearchString_ResultsAreCorrect()
         {
             _ultimateComplicatedPage.Goto();
-            _ultimateComplicatedPage.SearchLeftBox();
+            _ultimateComplicatedPage.ComplicatedLeftPane.SearchBox();
 
             Assert.IsTrue(Driver.Title.Contains("You searched for selenium errors"));
         }

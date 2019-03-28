@@ -1,7 +1,4 @@
-﻿
-
-
-using NLog;
+﻿using NLog;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
@@ -49,7 +46,7 @@ namespace UdemyFramework.Common
             var ss = GetScreenshot();
             var successfullySaved = TryToSaveScreenshot(ScreenshotFileName, ss);
             if (successfullySaved)
-                Logger.Error($"Screenshot Of Error=>{ScreenshotFilePath}");
+                Logger.Error($"Log file: Screenshot Of Error=>{ScreenshotFilePath}");
             return successfullySaved;
         }
 

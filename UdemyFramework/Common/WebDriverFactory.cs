@@ -11,18 +11,18 @@ namespace UdemyFramework.Common
 
         public IWebDriver CreateDriver(BrowserType browserType)
         {
-            _logger.Info("In the WebDriverFactory, creating a WebDriver.");
+            _logger.Info("Log file: In the WebDriverFactory, creating a WebDriver.");
             switch (browserType)
             {
                 case BrowserType.Chrome:
                     {
-                        _logger.Trace("Here's your WebDriver");
+                        _logger.Trace("Log file: Here's your WebDriver");
                         return GetChromeDriver();
                     }
 
                 default:
                     {
-                        _logger.Error("Error. We did not create a WebDriver.");
+                        _logger.Error("Log file: Error. We did not create a WebDriver.");
                         throw new ArgumentOutOfRangeException("No such browser exists");
 
                     }

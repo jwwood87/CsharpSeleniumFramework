@@ -21,7 +21,7 @@ namespace UdemyFramework.Tests
         public void SetupBase()
 
         {
-            _logger.Debug("We're in BaseTest, Setup(), test name: " + TestContext.CurrentContext.Test.Name);
+            _logger.Debug("Log file: We're in BaseTest, Setup(), test name: " + TestContext.CurrentContext.Test.Name);
             Reporter.AddTestCaseMetadataToHtmlReport(TestContext.CurrentContext);
             _webDriver = new WebDriverFactory();
             _driver = _webDriver.CreateDriver(BrowserType.Chrome);
@@ -47,8 +47,8 @@ namespace UdemyFramework.Tests
             {
                 StopBrowser();
                 _logger.Debug(TestContext.CurrentContext.Test.Name);
-                _logger.Debug("TEST STOPPED\n");
-                Reporter.LogTestStepForBugLogger(Status.Info, "Test stopped.\n");
+                _logger.Debug("Log file: TEST STOPPED\n");
+                Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: Test stopped.\n");
             }
         }
 
@@ -71,7 +71,7 @@ namespace UdemyFramework.Tests
                 return;
             Driver.Quit();
             Driver = null;
-            _logger.Debug("Browser stopped successfully.");
+            _logger.Debug("Log file: Browser stopped successfully.");
         }
     }
 }

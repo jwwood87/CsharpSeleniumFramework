@@ -20,7 +20,7 @@ namespace UdemyFramework.Pages
 
         internal void Goto()
         {
-            _logger.Info("In a browser, navigate to " + Resource1.AutomationPracticeUrl);
+            _logger.Info("Log file: In a browser, navigate to " + Resource1.AutomationPracticeUrl);
             Driver.Navigate().GoToUrl(Resource1.AutomationPracticeUrl);
         }
     }
