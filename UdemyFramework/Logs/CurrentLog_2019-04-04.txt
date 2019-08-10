@@ -1,0 +1,9 @@
+2019-04-04 20:14:22.3720 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-04-04 20:14:48.6054 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-04-04 20:21:35.3072 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-04-04 20:21:41.2950 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-04-04 20:22:28.6813 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-04-04 20:22:34.8611 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 

@@ -57,13 +57,17 @@ namespace UdemyFramework
 
         internal bool SignInSuccessful()
         {
-                var wait = new WebDriverWait(Driver, new TimeSpan(0, 0, 3));
-                var element = wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.ClassName("et-pb-contact-message")));
-                return _thanksContactingMessage.Displayed;
+            _logger.Info("Determining whether the sign-in was successful.");
+            Reporter.LogTestStepForBugLogger(Status.Info, "Determining whether the sign-in was successful.");
+            var wait = new WebDriverWait(Driver, new TimeSpan(0, 0, 3));
+            var element = wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.ClassName("et-pb-contact-message")));
+            return _thanksContactingMessage.Displayed;
         }
 
         private void AnswerCaptchaProblem()
         {
+            _logger.Info("Answering the Captcha problem.");
+            Reporter.LogPassingTestStepToBugLogger("Answering the Captcha problem.");
             string[] theNumbers = _captchaQuestion.Text.Split(' ');
             int theAnswer = int.Parse(theNumbers[0]) + int.Parse(theNumbers[2]);
             _captchaAnswer.Clear();

@@ -46,9 +46,9 @@ namespace UdemyFramework.Tests
             finally
             {
                 StopBrowser();
-                _logger.Debug(TestContext.CurrentContext.Test.Name);
-                _logger.Debug("Log file: TEST STOPPED\n");
-                Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: Test stopped.\n");
+                //_logger.Trace(TestContext.CurrentContext.Test.Name);
+                _logger.Trace("Test stopped\n");
+                Reporter.LogTestStepForBugLogger(Status.Info, "Test stopped.\n");
             }
         }
 
@@ -73,5 +73,6 @@ namespace UdemyFramework.Tests
             Driver = null;
             _logger.Debug("Log file: Browser stopped successfully.");
         }
+
     }
 }

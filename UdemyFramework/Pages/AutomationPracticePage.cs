@@ -23,16 +23,15 @@ namespace UdemyFramework.Pages
 
         public void Goto()
         {
-            _logger.Info("Log file: In the browser, navigate to " + _searchUrl);
-            Reporter.LogTestStepForBugLogger(Status.Info, "$Extent Report: In the browser, navigate to {_searchUrl}.");
+            _logger.Info("Navigating to " + _searchUrl);
+            Reporter.LogTestStepForBugLogger(Status.Info, $"Navigating to {_searchUrl}.");
             Driver.Navigate().GoToUrl(_searchUrl);
-            Reporter.LogPassingTestStepToBugLogger($"Extent Report: In a browser, go to url=>{_searchUrl}");
         }
 
         internal ContactUsPage ClickContactUs()
         {
-            _logger.Info("Log file: In the AutomationPracticePpage, click ContactUs.");
-            Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: In the AutomationPracticePpage, click ContactUs.");
+            _logger.Info("In the AutomationPracticePpage, clicking the ContactUs link.");
+            Reporter.LogTestStepForBugLogger(Status.Info, "In the AutomationPracticePpage, clicking the ContactUs link.");
             _contactUs.Click();
 
             return new ContactUsPage(Driver);  
@@ -40,16 +39,16 @@ namespace UdemyFramework.Pages
 
         public void SearchStringQuery(string searchString)
         {
-            _logger.Info("Log file: Search for " + searchString);
-            Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: Search for {searchString}.");
+            _logger.Info("Searching for " + searchString);
+            Reporter.LogTestStepForBugLogger(Status.Info, "Searching for {searchString}.");
             _searchBox.SendKeys(searchString);
             _searchBoxButton.Submit();
         }
 
         internal SignInPage SignIn()
         {
-            _logger.Info("Log file: Click the sign in link");
-            Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: Click the Sign In link.");
+            _logger.Info("Clicking the Sign-in link");
+            Reporter.LogTestStepForBugLogger(Status.Info, "Clicking the SigniIn link.");
             _signIn.Click();
             return new SignInPage(Driver);
         }

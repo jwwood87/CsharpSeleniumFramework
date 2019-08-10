@@ -10,5 +10,11 @@ namespace UdemyFramework
         {
             Driver = driver;
         }
+
+        //Java Script methods
+        //Web Driver Wait class
+        //Navigate method
+        //200-lines max
+
     }
 }

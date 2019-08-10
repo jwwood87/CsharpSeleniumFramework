@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using OpenQA.Selenium;
+using System;
 using OpenQA.Selenium.Chrome;
 using UdemyFramework.Pages;
 using UdemyFramework.Tests;
@@ -27,6 +27,12 @@ namespace UdemyFramework
             _searchPage.SearchStringQuery("blouse");
 
             Assert.AreEqual("BLOUSE", _searchPage.GetProductName());
+        }
+
+        [Test]
+        public void UseEnvironmentVariable()
+        {
+            System.Console.WriteLine("The variable is " + Environment.GetEnvironmentVariable("John_User", EnvironmentVariableTarget.User));
         }
     }
 }

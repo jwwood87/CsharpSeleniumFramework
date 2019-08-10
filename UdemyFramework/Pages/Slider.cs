@@ -25,8 +25,8 @@ namespace UdemyFramework.Pages
 
         internal void ClickNextButton()
         {
-            _logger.Info("Log file: In the Slider section, click the next button.");
-            Reporter.LogPassingTestStepToBugLogger("Extent Report: In Slider class, click the next button in the slider.");
+            _logger.Info("Clicking the Next button in the slider.");
+            Reporter.LogPassingTestStepToBugLogger("Clicking the Next button in the slider.");
             _NextButton.Click();
         }
     }

@@ -1,0 +1,464 @@
+2019-03-29 21:12:02.3512 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:12:02.4270 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-29 21:12:02.4333 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0329_2112\TestResults.html 
+2019-03-29 21:12:02.5187 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:02.5277 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:06.1160 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:12:06.1278 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:12:08.4549 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox - INFO: Log file: Search using the left-side search box. 
+2019-03-29 21:12:08.4689 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Search using the left-side search box. 
+2019-03-29 21:12:10.2087 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:15.0525 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:15.0645 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:12:15.0716 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:15.0716 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:15.1014 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:12:15.1014 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:15.1203 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:18.3704 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:12:18.3824 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:12:22.0892 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:12:22.0892 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs - INFO: Log file: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:12:22.1071 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:12:23.5297 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:23.7302 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:23.7412 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:12:23.7412 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:23.7412 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:23.7691 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:12:23.7825 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:23.7990 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:27.0357 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:12:27.0656 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:12:30.7576 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:12:30.7765 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Log file: Click the sign in link 
+2019-03-29 21:12:30.7765 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Click the Sign In link. 
+2019-03-29 21:12:32.5618 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:32.7647 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:32.7757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:12:32.7757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:32.7946 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:32.8130 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:12:32.8236 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:32.8435 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:36.0712 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:12:36.0712 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:12:37.9149 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:12:37.9289 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:12:38.6957 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:12:38.6957 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:12:41.7712 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:41.9637 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:41.9637 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:12:41.9787 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:41.9787 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:42.0036 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-29 21:12:42.0086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:42.0226 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:45.7319 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:45.9114 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:45.9223 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-29 21:12:45.9296 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:45.9296 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:45.9533 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-29 21:12:45.9533 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:45.9814 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:49.1902 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:12:49.2132 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:12:51.9235 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:12:54.2086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:12:54.4240 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:12:54.4380 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-29 21:12:54.4500 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:12:54.4610 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:12:54.4839 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-29 21:12:54.5009 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:12:54.5218 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:12:57.8206 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:12:57.8444 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:13:00.3240 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:13:03.0064 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:13:03.2311 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:13:03.2418 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-29 21:13:03.2418 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:13:03.2651 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:13:03.2847 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-29 21:13:03.2938 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:13:03.3116 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:13:06.5321 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:13:06.5520 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:13:09.0810 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:13:11.7546 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-29 21:13:14.0159 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:13:14.2543 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:13:14.2632 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-29 21:13:14.2632 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:13:14.2812 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:13:14.2981 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-29 21:13:14.3091 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:13:14.3243 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:13:17.5901 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:13:17.6090 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:13:20.5823 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:13:20.5947 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery - INFO: Log file: Search for blouse 
+2019-03-29 21:13:20.6032 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Search for {searchString}. 
+2019-03-29 21:13:22.5730 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName - INFO: Log file: Evaluate the product name. 
+2019-03-29 21:13:22.5851 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Evaluate the product name. 
+2019-03-29 21:13:22.6588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:13:22.8231 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:13:22.8231 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Search_ProvideString_Success 
+2019-03-29 21:13:22.8406 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:13:22.8513 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:13:22.8702 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-29 21:13:22.8702 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:13:22.9001 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:13:26.1106 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Log file: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:13:29.0083 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:13:29.0083 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:13:29.1220 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:13:29.1339 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:13:29.2018 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:13:29.3736 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:13:29.3736 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-29 21:13:29.3863 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:13:29.3863 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:15:33.7896 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:15:33.8285 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-29 21:15:33.8355 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0329_2115\TestResults.html 
+2019-03-29 21:15:33.8783 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:15:33.8874 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:15:37.0328 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:15:37.0537 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:15:38.9562 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox - INFO: Log file: Search using the left-side search box. 
+2019-03-29 21:15:38.9702 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Search using the left-side search box. 
+2019-03-29 21:15:40.3176 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:15:43.1460 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:15:43.1519 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:15:43.1519 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:15:43.1689 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:15:43.1968 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:15:43.1968 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:15:43.2287 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:15:46.5055 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:15:46.5279 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:15:49.6973 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:15:49.7142 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs - INFO: Log file: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:15:49.7302 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:15:50.8240 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:15:51.0038 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:15:51.0158 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:15:51.0248 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:15:51.0248 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:15:51.0568 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:15:51.0568 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:15:51.0847 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:15:54.5176 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:15:54.5415 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:15:57.6480 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:15:57.6819 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn - INFO: Log file: Click the sign in link 
+2019-03-29 21:15:57.7049 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Click the Sign In link. 
+2019-03-29 21:15:59.4824 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:15:59.7124 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:15:59.7124 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:15:59.7304 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:15:59.7414 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:15:59.7593 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:15:59.7593 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:15:59.7853 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:03.1836 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:16:03.1976 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:16:05.3937 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:16:05.4133 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:16:06.1372 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:16:06.1372 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:16:08.0251 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:08.2618 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:08.2618 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:16:08.2785 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:08.2920 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:08.3150 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-29 21:16:08.3239 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:08.3379 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:12.0165 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:12.1827 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:12.1947 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: DeserializeJson 
+2019-03-29 21:16:12.1947 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:12.2156 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:12.2386 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-29 21:16:12.2475 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:12.2665 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:15.6780 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:15.6998 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:18.3039 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:16:21.1228 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:21.3502 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:21.3632 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderDefault 
+2019-03-29 21:16:21.3781 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:21.3931 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:21.4210 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-29 21:16:21.4367 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:21.4652 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:24.9483 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:24.9762 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:27.6336 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:16:30.5935 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:30.8269 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:30.8368 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormGenderOther 
+2019-03-29 21:16:30.8368 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:30.8566 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:30.8757 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-29 21:16:30.8882 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:30.9422 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:34.4003 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:34.4382 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:16:38.1429 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:16:40.7978 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-29 21:16:43.1326 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:43.3899 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:43.3998 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-29 21:16:43.3998 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:43.4208 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:43.4397 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-29 21:16:43.4497 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:43.4687 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:46.9650 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:16:46.9650 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: $Extent Report: In the browser, navigate to {_searchUrl}. 
+2019-03-29 21:16:49.9216 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:16:49.9386 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery - INFO: Log file: Search for blouse 
+2019-03-29 21:16:49.9539 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Search for {searchString}. 
+2019-03-29 21:16:51.6709 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName - INFO: Log file: Evaluate the product name. 
+2019-03-29 21:16:51.6969 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Evaluate the product name. 
+2019-03-29 21:16:51.8255 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:52.0818 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:52.0950 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Search_ProvideString_Success 
+2019-03-29 21:16:52.1059 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:52.1187 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:16:52.1437 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase - DEBUG: Log file: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-29 21:16:52.1567 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:16:52.1796 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:16:55.6777 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto - INFO: Log file: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:16:58.7532 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:16:58.7744 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:16:58.8768 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:16:58.8881 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:16:58.9659 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:16:59.1701 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:16:59.1850 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: TestUsingPropertyForPage 
+2019-03-29 21:16:59.2000 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:16:59.2179 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:18:51.4423 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:18:51.5308 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.CreateSingletonReporter(Reporter.cs:43) - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-29 21:18:51.5422 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.CreateReportDirectory(Reporter.cs:64) - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0329_2118\TestResults.html 
+2019-03-29 21:18:51.6054 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:18:51.6193 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:18:54.7398 - DESKTOP-Q06AMIK - 16 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:18:54.7547 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:18:57.3727 - DESKTOP-Q06AMIK - 16 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Log file: Search using the left-side search box. 
+2019-03-29 21:18:57.3857 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Search using the left-side search box. 
+2019-03-29 21:18:59.2467 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:19:02.0881 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:19:02.0881 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:19:02.0881 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:19:02.1052 - DESKTOP-Q06AMIK - 16 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:38:55.3637 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:38:55.4345 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter(Reporter.cs:43) - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-29 21:38:55.4455 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory(Reporter.cs:64) - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0329_2138\TestResults.html 
+2019-03-29 21:38:55.4954 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:38:55.4954 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:38:58.6850 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:38:58.6980 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:39:01.1828 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Log file: Search using the left-side search box. 
+2019-03-29 21:39:01.2116 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Search using the left-side search box. 
+2019-03-29 21:39:02.7044 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:39:08.0376 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:39:08.0466 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:39:08.0577 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:39:08.0577 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:40:20.9017 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:40:20.9715 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter(Reporter.cs:43) - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-29 21:40:20.9857 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory(Reporter.cs:64) - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0329_2140\TestResults.html 
+2019-03-29 21:40:21.0413 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:40:21.0413 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:40:24.2068 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:40:24.2288 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:40:26.8995 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Log file: Search using the left-side search box. 
+2019-03-29 21:40:26.9266 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Search using the left-side search box. 
+2019-03-29 21:40:28.4076 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:40:32.3978 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:40:32.3978 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: ComplicatedPage_SearchString_ResultsAreCorrect 
+2019-03-29 21:40:32.4137 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:40:32.4137 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:40:32.4547 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:40:32.4649 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:40:32.4838 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:40:35.7549 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:40:35.7639 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In the browser, navigate to http://automationpractice.com/index.php. 
+2019-03-29 21:40:38.8401 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:40:38.8693 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs(AutomationPracticePage.cs:34) - INFO: Log file: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:40:38.8940 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In the AutomationPracticePpage, click ContactUs. 
+2019-03-29 21:40:40.0498 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:40:40.2409 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:40:40.2478 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-29 21:40:40.2588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:40:40.2588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:40:40.2887 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:40:40.2887 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:40:40.3176 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:40:43.5440 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:40:43.5639 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In the browser, navigate to http://automationpractice.com/index.php. 
+2019-03-29 21:40:46.3621 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:40:46.3880 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn(AutomationPracticePage.cs:51) - INFO: Log file: Click the sign in link 
+2019-03-29 21:40:46.4100 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Click the Sign In link. 
+2019-03-29 21:40:48.2400 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:40:48.3998 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:40:48.3998 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: OpenAutomationPractice_ClickSignIn_FillOutForm 
+2019-03-29 21:40:48.4217 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:40:48.4297 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:40:48.4526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:40:48.4716 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:40:48.4906 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:40:51.7803 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:40:51.8075 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-29 21:40:53.8234 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:40:53.8373 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-29 21:40:54.5764 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:40:54.5873 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-29 21:40:56.4014 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:40:56.5374 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:40:56.5543 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-29 21:40:56.5543 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:40:56.5543 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:40:56.5761 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: DeserializeJson 
+2019-03-29 21:40:56.5761 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:40:56.5941 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:40:59.9755 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:00.1163 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:00.1163 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: DeserializeJson 
+2019-03-29 21:41:00.1363 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:00.1493 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:41:00.1691 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderDefault 
+2019-03-29 21:41:00.1691 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:41:00.1941 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:41:03.4807 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:03.4807 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:06.1424 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit(SampleApplicationPage.cs:34) - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:41:08.3893 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:08.5581 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:08.5581 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: FillOutFormGenderDefault 
+2019-03-29 21:41:08.5738 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:08.5738 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:41:08.6047 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormGenderOther 
+2019-03-29 21:41:08.6187 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:41:08.6378 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:41:12.0413 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:12.0690 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:14.1429 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit(SampleApplicationPage.cs:34) - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:41:16.2861 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:16.4865 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:16.4956 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: FillOutFormGenderOther 
+2019-03-29 21:41:16.4956 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:16.5165 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:41:16.5372 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: FillOutFormWithEmergencyContact 
+2019-03-29 21:41:16.5481 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:41:16.5691 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:41:19.9110 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Log file: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:19.9395 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In a browser, navigate to {Resource1.Sprint4Url}. 
+2019-03-29 21:41:22.4379 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutUserFormAndSubmit(SampleApplicationPage.cs:34) - DEBUG: In the SampleAppication page, fill out the user form and submit. 
+2019-03-29 21:41:25.3526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.FillOutEmergencyContactFormAndSubmit(SampleApplicationPage.cs:44) - DEBUG: In the SampleAppication page, fill out the emergency contact form and submit. 
+2019-03-29 21:41:27.5463 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:27.7817 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:27.7900 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: FillOutFormWithEmergencyContact 
+2019-03-29 21:41:27.7900 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:27.8118 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:41:27.8305 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: Search_ProvideString_Success 
+2019-03-29 21:41:27.8398 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:41:27.8565 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:41:31.1709 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Log file: In the browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:41:31.2019 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In the browser, navigate to http://automationpractice.com/index.php. 
+2019-03-29 21:41:34.0277 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-29 21:41:34.0417 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery(AutomationPracticePage.cs:43) - INFO: Log file: Search for blouse 
+2019-03-29 21:41:34.0577 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Search for {searchString}. 
+2019-03-29 21:41:35.9799 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName(AutomationPracticePage.cs:59) - INFO: Log file: Evaluate the product name. 
+2019-03-29 21:41:35.9949 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Evaluate the product name. 
+2019-03-29 21:41:36.0597 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:36.2183 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:36.2282 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: Search_ProvideString_Success 
+2019-03-29 21:41:36.2422 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:36.2422 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-29 21:41:36.2751 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: TestUsingPropertyForPage 
+2019-03-29 21:41:36.2891 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-29 21:41:36.3111 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-29 21:41:39.6103 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto(HomePage.cs:23) - INFO: Log file: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-29 21:41:43.5258 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:41:43.5408 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:41:43.6715 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Log file: In the Slider section, click the next button. 
+2019-03-29 21:41:43.6844 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In Slider class, click the next button in the slider. 
+2019-03-29 21:41:43.7552 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-29 21:41:43.9517 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-29 21:41:43.9608 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: TestUsingPropertyForPage 
+2019-03-29 21:41:43.9608 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-29 21:41:43.9906 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 

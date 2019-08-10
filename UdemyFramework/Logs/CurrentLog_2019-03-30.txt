@@ -1,0 +1,263 @@
+2019-03-30 21:18:08.2120 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-30 21:18:12.1276 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:18:12.1508 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:18:14.4696 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:18:14.4817 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:18:15.2914 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:18:15.3074 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:18:17.7051 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-30 21:18:21.8371 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:21:39.6560 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.SetupBase(BaseTest.cs:24) - DEBUG: Log file: We're in BaseTest, Setup(), test name: SectionRandomStuff_SubmitForm_Successful 
+2019-03-30 21:21:39.7218 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateSingletonReporter(Reporter.cs:43) - TRACE: Log file: Starting a one time setup for the entire .CreatingReports namespace. Initializing the reporter next... 
+2019-03-30 21:21:39.7288 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.CreateReportDirectory(Reporter.cs:64) - TRACE: Log file: Full path of HTML report=>C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2121\TestResults.html 
+2019-03-30 21:21:39.7916 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-30 21:21:39.8096 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:19) - TRACE: Log file: Here's your WebDriver 
+2019-03-30 21:21:42.9432 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:21:42.9582 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:21:45.4894 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:21:45.5114 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:21:46.3930 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:21:46.4089 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:21:48.3013 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-30 21:21:54.1982 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.StopBrowser(BaseTest.cs:74) - DEBUG: Log file: Browser stopped successfully. 
+2019-03-30 21:21:54.2094 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:49) - DEBUG: SectionRandomStuff_SubmitForm_Successful 
+2019-03-30 21:21:54.2094 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Tests.BaseTest.TearDownBase(BaseTest.cs:50) - DEBUG: Log file: TEST STOPPED
+ 
+2019-03-30 21:21:54.2281 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:34:24.9541 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Log file: In the WebDriverFactory, creating a WebDriver. 
+2019-03-30 21:34:28.1440 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:34:28.1560 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:34:31.2939 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Extent Report: In a browser, go to url=>http://automationpractice.com/index.php 
+2019-03-30 21:34:31.3119 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs(AutomationPracticePage.cs:34) - INFO: Log file: In the AutomationPracticePpage, click ContactUs. 
+2019-03-30 21:34:31.3248 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: In the AutomationPracticePpage, click ContactUs. 
+2019-03-30 21:34:32.4214 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed from ReportTestOutcome method. 
+2019-03-30 21:34:35.9086 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:51:36.0220 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:51:39.2272 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:51:39.2272 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:51:41.3043 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Searching with the left-side search box. 
+2019-03-30 21:51:41.3253 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Searching with the left-side search box. 
+2019-03-30 21:51:42.8246 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:51:46.4349 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:51:46.4538 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:51:49.7078 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:51:49.7416 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:51:52.6753 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs(AutomationPracticePage.cs:33) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 21:51:52.6965 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 21:51:54.9838 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure(ScreenshotTaker.cs:49) - ERROR: Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2151\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg 
+2019-03-30 21:51:55.0067 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome(Reporter.cs:87) - ERROR: Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-30 21:51:55.0248 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test failed. 
+2019-03-30 21:51:55.2750 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:51:55.2910 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:51:58.5544 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:51:58.5544 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:52:01.7979 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn(AutomationPracticePage.cs:50) - INFO: Clicking the Sign-in link 
+2019-03-30 21:52:01.8109 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Clicking the SigniIn link. 
+2019-03-30 21:52:03.6428 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:03.8472 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:03.8622 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:07.1155 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:52:07.1375 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:52:08.9588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:52:08.9588 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:52:09.6920 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:52:09.6920 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:52:09.7128 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.AnswerCaptchaProblem(UltimateComplicatedPage.cs:69) - INFO: Answering the Captcha problem. 
+2019-03-30 21:52:09.7255 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Answering the Captcha problem. 
+2019-03-30 21:52:09.9242 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SignInSuccessful(UltimateComplicatedPage.cs:60) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 21:52:09.9352 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 21:52:11.0674 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:11.2774 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:11.2963 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:14.8090 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:14.9616 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:14.9795 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:18.3083 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:18.3293 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:23.1118 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:23.3217 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:23.3362 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:26.6077 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:26.6376 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:31.1594 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:31.3559 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:31.3709 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:34.6571 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:34.6919 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:52:41.4903 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:41.7128 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:41.7286 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:45.0128 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:52:45.0208 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:52:47.8526 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery(AutomationPracticePage.cs:42) - INFO: Searching for blouse 
+2019-03-30 21:52:47.8685 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Searching for {searchString}. 
+2019-03-30 21:52:49.3311 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName(AutomationPracticePage.cs:58) - INFO: Log file: Evaluate the product name. 
+2019-03-30 21:52:49.3481 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Evaluate the product name. 
+2019-03-30 21:52:49.4259 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:49.6257 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:52:49.6457 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:52:52.9636 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto(HomePage.cs:25) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 21:52:52.9984 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 21:52:56.1665 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:52:56.1936 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:52:56.3980 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:52:56.4199 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:52:56.5575 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Test passed. 
+2019-03-30 21:52:56.8220 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:110) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:08.9097 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:12.1373 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:56:12.1556 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:56:14.1398 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Searching with the left-side search box. 
+2019-03-30 21:56:14.1657 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Searching with the left-side search box. 
+2019-03-30 21:56:18.5535 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:18.5794 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:21.8718 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:56:21.8940 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:56:24.7394 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs(AutomationPracticePage.cs:33) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 21:56:24.7394 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 21:56:26.2888 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure(ScreenshotTaker.cs:49) - ERROR: Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2156\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg 
+2019-03-30 21:56:26.2888 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome(Reporter.cs:87) - ERROR: Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-30 21:56:26.4678 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:26.4828 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:29.8027 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:56:29.8256 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:56:33.3109 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn(AutomationPracticePage.cs:50) - INFO: Clicking the Sign-in link 
+2019-03-30 21:56:33.3508 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Clicking the SigniIn link. 
+2019-03-30 21:56:35.2325 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:35.2505 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:38.6021 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:56:38.6336 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 21:56:41.2628 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:56:41.2976 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 21:56:42.1315 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:56:42.1315 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 21:56:42.1574 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.AnswerCaptchaProblem(UltimateComplicatedPage.cs:69) - INFO: Answering the Captcha problem. 
+2019-03-30 21:56:42.1714 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Answering the Captcha problem. 
+2019-03-30 21:56:42.3732 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SignInSuccessful(UltimateComplicatedPage.cs:60) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 21:56:42.3868 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 21:56:44.1772 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:44.1970 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:47.8118 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:47.8308 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:51.1728 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:56:51.2037 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:56:55.9043 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:56:55.9195 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:56:59.2101 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:56:59.2341 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:57:03.8431 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:57:03.8611 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:57:07.1925 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:57:07.2264 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 21:57:14.9355 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:57:14.9523 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:57:18.3110 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 21:57:18.3458 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 21:57:21.7606 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery(AutomationPracticePage.cs:42) - INFO: Searching for blouse 
+2019-03-30 21:57:21.7705 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Searching for {searchString}. 
+2019-03-30 21:57:24.4787 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName(AutomationPracticePage.cs:58) - INFO: Log file: Evaluate the product name. 
+2019-03-30 21:57:24.4892 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Evaluate the product name. 
+2019-03-30 21:57:24.7467 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 21:57:24.7768 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 21:57:28.0991 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto(HomePage.cs:25) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 21:57:28.1347 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 21:57:31.5846 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:57:31.6165 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:57:31.8132 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:57:31.8340 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 21:57:32.1860 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Test stopped.
+ 
+2019-03-30 22:03:02.8852 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:06.1022 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 22:03:06.1235 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 22:03:08.6899 - DESKTOP-Q06AMIK - 15 - UdemyFramework.ComplicatedLeftPane.SearchBox(ComplicatedLeftPane.cs:22) - INFO: Searching with the left-side search box. 
+2019-03-30 22:03:08.7048 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Searching with the left-side search box. 
+2019-03-30 22:03:12.9399 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:12.9629 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:16.2904 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 22:03:16.3152 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 22:03:20.0817 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.ClickContactUs(AutomationPracticePage.cs:33) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 22:03:20.1077 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: In the AutomationPracticePpage, clicking the ContactUs link. 
+2019-03-30 22:03:21.7563 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.ScreenshotTaker.TakeScreenshotForFailure(ScreenshotTaker.cs:49) - ERROR: Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2203\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg 
+2019-03-30 22:03:21.7563 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome(Reporter.cs:87) - ERROR: Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-03-30 22:03:21.9517 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:21.9651 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:25.1811 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 22:03:25.2030 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 22:03:28.1405 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SignIn(AutomationPracticePage.cs:50) - INFO: Clicking the Sign-in link 
+2019-03-30 22:03:28.1863 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Clicking the SigniIn link. 
+2019-03-30 22:03:30.1166 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:30.1305 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:33.4279 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.Goto(UltimateComplicatedPage.cs:33) - INFO: Log file: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 22:03:33.4610 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/ 
+2019-03-30 22:03:35.3625 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.FillOutForm(UltimateComplicatedPage.cs:40) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 22:03:35.3814 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Fill out the form at {Resource1.UltimateComplicatedUrl} 
+2019-03-30 22:03:36.3856 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SubmitForm(UltimateComplicatedPage.cs:52) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 22:03:36.4076 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Answer the Captcha problem and submit the form. 
+2019-03-30 22:03:36.4316 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.AnswerCaptchaProblem(UltimateComplicatedPage.cs:69) - INFO: Answering the Captcha problem. 
+2019-03-30 22:03:36.4545 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Answering the Captcha problem. 
+2019-03-30 22:03:36.6749 - DESKTOP-Q06AMIK - 15 - UdemyFramework.UltimateComplicatedPage.SignInSuccessful(UltimateComplicatedPage.cs:60) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 22:03:36.6849 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Determining whether the sign-in was successful. 
+2019-03-30 22:03:38.5297 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:38.5497 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:42.1688 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:42.1929 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:45.5308 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:03:45.5707 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:03:50.5264 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:50.5413 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:03:53.8895 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:03:53.9265 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:03:59.4062 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:03:59.4197 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:04:02.7167 - DESKTOP-Q06AMIK - 15 - UdemyFramework.SampleApplicationPage.GoTo(SampleApplicationPage.cs:92) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:04:02.7364 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to {Resource1.Sprint4Url}. 
+2019-03-30 22:04:10.5423 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:04:10.5570 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:04:13.8088 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.Goto(AutomationPracticePage.cs:26) - INFO: Navigating to http://automationpractice.com/index.php 
+2019-03-30 22:04:13.8328 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Navigating to http://automationpractice.com/index.php. 
+2019-03-30 22:04:16.9557 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.SearchStringQuery(AutomationPracticePage.cs:42) - INFO: Searching for blouse 
+2019-03-30 22:04:16.9857 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Searching for {searchString}. 
+2019-03-30 22:04:18.8430 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.AutomationPracticePage.GetProductName(AutomationPracticePage.cs:58) - INFO: Log file: Evaluate the product name. 
+2019-03-30 22:04:18.8584 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Extent Report: Evaluate the product name. 
+2019-03-30 22:04:19.2040 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-03-30 22:04:19.2329 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-03-30 22:04:22.5523 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.HomePage.Goto(HomePage.cs:25) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 22:04:22.5802 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: In a browser, navigate to http://automationpractice.com/index.php 
+2019-03-30 22:04:25.9625 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 22:04:25.9924 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 22:04:26.1012 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Pages.Slider.ClickNextButton(Slider.cs:28) - INFO: Clicking the Next button in the slider. 
+2019-03-30 22:04:26.1244 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogPassingTestStepToBugLogger(Reporter.cs:76) - INFO: Clicking the Next button in the slider. 
+2019-03-30 22:04:26.4782 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 

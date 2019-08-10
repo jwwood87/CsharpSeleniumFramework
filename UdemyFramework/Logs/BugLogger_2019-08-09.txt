@@ -1,0 +1,8 @@
+Creating a WebDriver.
+Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens
+Test stopped.
+
+Creating a WebDriver.
+Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens
+Test stopped.
+

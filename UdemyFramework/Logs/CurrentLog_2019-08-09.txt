@@ -1,0 +1,8 @@
+2019-08-09 17:14:53.5473 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-08-09 17:14:55.5905 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome(Reporter.cs:87) - ERROR: Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-08-09 17:14:58.2909 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 
+2019-08-09 17:18:45.9687 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.WebDriverFactory.CreateDriver(WebDriverFactory.cs:14) - INFO: Creating a WebDriver. 
+2019-08-09 17:18:47.2927 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.ReportTestOutcome(Reporter.cs:87) - ERROR: Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens 
+2019-08-09 17:18:49.8065 - DESKTOP-Q06AMIK - 15 - UdemyFramework.Common.Reporter.LogTestStepForBugLogger(Reporter.cs:106) - INFO: Test stopped.
+ 

@@ -46,7 +46,7 @@ namespace UdemyFramework.Common
             var ss = GetScreenshot();
             var successfullySaved = TryToSaveScreenshot(ScreenshotFileName, ss);
             if (successfullySaved)
-                Logger.Error($"Log file: Screenshot Of Error=>{ScreenshotFilePath}");
+                Logger.Error($"Screenshot Of Error=> {ScreenshotFilePath}");
             return successfullySaved;
         }
 

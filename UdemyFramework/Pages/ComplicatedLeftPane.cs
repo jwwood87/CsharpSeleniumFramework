@@ -19,8 +19,8 @@ namespace UdemyFramework
 
         internal void SearchBox()
         {
-            _logger.Info("Log file: Search using the left-side search box.");
-            Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: Search using the left-side search box.");
+            _logger.Info("Searching with the left-side search box.");
+            Reporter.LogTestStepForBugLogger(Status.Info, "Searching with the left-side search box.");
             _searchBox.Clear();
             _searchBox.SendKeys("selenium errors");
             _searchBoxSubmit.Click();

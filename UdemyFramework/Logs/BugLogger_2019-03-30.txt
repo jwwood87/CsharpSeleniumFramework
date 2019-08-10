@@ -1,0 +1,245 @@
+Log file: In the WebDriverFactory, creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Log file: In the WebDriverFactory, creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Extent Report: In a browser, go to url=>http://automationpractice.com/index.php
+Log file: In the AutomationPracticePpage, click ContactUs.
+Extent Report: In the AutomationPracticePpage, click ContactUs.
+Test passed from ReportTestOutcome method.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Searching with the left-side search box.
+Searching with the left-side search box.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+In the AutomationPracticePpage, clicking the ContactUs link.
+In the AutomationPracticePpage, clicking the ContactUs link.
+Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2151\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg
+Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens
+Test failed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Clicking the Sign-in link
+Clicking the SigniIn link.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Answering the Captcha problem.
+Answering the Captcha problem.
+Determining whether the sign-in was successful.
+Determining whether the sign-in was successful.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Searching for blouse
+Searching for {searchString}.
+Log file: Evaluate the product name.
+Extent Report: Evaluate the product name.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In a browser, navigate to http://automationpractice.com/index.php
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Test passed.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Searching with the left-side search box.
+Searching with the left-side search box.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+In the AutomationPracticePpage, clicking the ContactUs link.
+In the AutomationPracticePpage, clicking the ContactUs link.
+Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2156\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg
+Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Clicking the Sign-in link
+Clicking the SigniIn link.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Answering the Captcha problem.
+Answering the Captcha problem.
+Determining whether the sign-in was successful.
+Determining whether the sign-in was successful.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Searching for blouse
+Searching for {searchString}.
+Log file: Evaluate the product name.
+Extent Report: Evaluate the product name.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In a browser, navigate to http://automationpractice.com/index.php
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Extent Report: Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Searching with the left-side search box.
+Searching with the left-side search box.
+Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+In the AutomationPracticePpage, clicking the ContactUs link.
+In the AutomationPracticePpage, clicking the ContactUs link.
+Screenshot Of Error=> C:\Users\jwwoo\Documents\GitHubRepo\UdemyFramework\UdemyFramework\ExtentReports\0330_2203\FAIL_OpenAutomationPractice_ClickContactUs_PageOpens.jpg
+Test Failed=>OpenAutomationPractice_ClickContactUs_PageOpens
+Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Clicking the Sign-in link
+Clicking the SigniIn link.
+Test stopped.
+
+Creating a WebDriver.
+Log file: Go to the page, https://www.ultimateqa.com/complicated-page/
+Extent Report: Go to the page, https://www.ultimateqa.com/complicated-page/
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Fill out the form at {Resource1.UltimateComplicatedUrl}
+Answer the Captcha problem and submit the form.
+Answer the Captcha problem and submit the form.
+Answering the Captcha problem.
+Answering the Captcha problem.
+Determining whether the sign-in was successful.
+Determining whether the sign-in was successful.
+Test stopped.
+
+Creating a WebDriver.
+Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test stopped.
+
+Creating a WebDriver.
+Navigating to {Resource1.Sprint4Url}.
+Navigating to {Resource1.Sprint4Url}.
+Test stopped.
+
+Creating a WebDriver.
+Navigating to http://automationpractice.com/index.php
+Navigating to http://automationpractice.com/index.php.
+Searching for blouse
+Searching for {searchString}.
+Log file: Evaluate the product name.
+Extent Report: Evaluate the product name.
+Test stopped.
+
+Creating a WebDriver.
+In a browser, navigate to http://automationpractice.com/index.php
+In a browser, navigate to http://automationpractice.com/index.php
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Clicking the Next button in the slider.
+Test stopped.
+

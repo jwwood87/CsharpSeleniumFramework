@@ -89,8 +89,8 @@ namespace UdemyFramework
 
         internal void GoTo()
         {
-            _logger.Info("Log file: In a browser, navigate to {Resource1.Sprint4Url}.");
-            Reporter.LogTestStepForBugLogger(Status.Info, "Extent Report: In a browser, navigate to {Resource1.Sprint4Url}.");
+            _logger.Info("Navigating to {Resource1.Sprint4Url}.");
+            Reporter.LogTestStepForBugLogger(Status.Info, "Navigating to {Resource1.Sprint4Url}.");
             Driver.Navigate().GoToUrl(Resource1.Sprint4Url);
         }
     }
