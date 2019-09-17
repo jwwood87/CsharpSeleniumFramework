@@ -53,8 +53,9 @@ namespace UdemyFramework.Tests
             string sourceFile = Path.Combine(Source, FileName);
             string destinationFile = Path.Combine(Destination, FileName);
             Directory.CreateDirectory(@"C:\temp\NewFolder" + name);
-            var salmons = new List<string>();
+            IEnumerable<string> salmons = new List<string>();
             var jojo = Directory.EnumerateDirectories(@"C:\Users\jwWoo");
+            salmons = jojo;
         }
     }
 }

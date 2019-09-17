@@ -23,6 +23,10 @@ namespace UdemyFramework
         IWebElement _submitButton => Driver.FindElement(By.ClassName("et_pb_contact_submit"));
         IWebElement _thanksContactingMessage => Driver.FindElement(By.ClassName("et-pb-contact-message"));
 
+        internal override string _PageTitle => throw new NotImplementedException();
+
+        internal override string _PageUrl => throw new NotImplementedException();
+
         public UltimateComplicatedPage(IWebDriver driver) : base(driver)
         {
             ComplicatedLeftPane = new ComplicatedLeftPane(driver);

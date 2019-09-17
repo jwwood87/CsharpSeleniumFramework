@@ -7,6 +7,10 @@ namespace UdemyFramework
     {
         public bool? IsVisible => Driver.Title == "Home - Ultimate QA";
 
+        internal override string _PageTitle => throw new NotImplementedException();
+
+        internal override string _PageUrl => throw new NotImplementedException();
+
         public UltimateQaHomePage(IWebDriver driver) :base(driver)
         {
         }

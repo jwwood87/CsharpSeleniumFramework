@@ -99,6 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\BrowserType.cs" />
+    <Compile Include="Common\INavigatePage.cs" />
     <Compile Include="Common\Reporter.cs" />
     <Compile Include="Common\ScreenshotTaker.cs" />
     <Compile Include="Common\WebDriverFactory.cs" />

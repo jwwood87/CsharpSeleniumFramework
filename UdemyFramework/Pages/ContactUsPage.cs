@@ -12,6 +12,10 @@ namespace UdemyFramework.Pages
         public bool? IsVisible => Driver.Title.Contains(PageTitle);
         public string PageTitle => "Contact Us - My Store";
 
+        internal override string _PageTitle => throw new System.NotImplementedException();
+
+        internal override string _PageUrl => throw new System.NotImplementedException();
+
         public ContactUsPage(IWebDriver driver) : base(driver)
         { }
 

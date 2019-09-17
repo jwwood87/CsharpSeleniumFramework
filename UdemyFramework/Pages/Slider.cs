@@ -18,6 +18,10 @@ namespace UdemyFramework.Pages
         IWebElement _NextButton => Driver.FindElement(By.ClassName("bx-next"));
         IWebElement _PreviousButton => Driver.FindElement(By.ClassName("bx-prev"));
 
+        internal override string _PageTitle => throw new NotImplementedException();
+
+        internal override string _PageUrl => throw new NotImplementedException();
+
         public Slider(IWebDriver driver) : base(driver)
         {
             Driver = driver;

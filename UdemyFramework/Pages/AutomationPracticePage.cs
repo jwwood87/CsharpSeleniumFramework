@@ -17,6 +17,10 @@ namespace UdemyFramework.Pages
         IWebElement _contactUs => Driver.FindElement(By.Id("contact-link"));
         IWebElement _signIn => Driver.FindElement(By.ClassName("login"));
 
+        internal override string _PageTitle => throw new System.NotImplementedException();
+
+        internal override string _PageUrl => throw new System.NotImplementedException();
+
         public AutomationPracticePage(IWebDriver driver) : base(driver)
         {
         }

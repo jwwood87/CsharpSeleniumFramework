@@ -15,6 +15,10 @@ namespace UdemyFramework.Pages
 
         public Slider Slider { get; set; }
 
+        internal override string _PageTitle => throw new System.NotImplementedException();
+
+        internal override string _PageUrl => throw new System.NotImplementedException();
+
         public HomePage(IWebDriver driver) : base(driver)
         {
             Slider = new Slider(driver);

@@ -11,6 +11,8 @@ namespace UdemyFramework
     {
         public bool? IsVisible => Driver.Title.Contains(_pageTitle);
         string _pageTitle => "Sample Application Lifecycle - Sprint 4 - Ultimate QA";
+
+
         Logger _logger = LogManager.GetCurrentClassLogger();
         IWebElement _submitButton => Driver.FindElement(By.CssSelector("input[type='submit']"));
         IWebElement _firstName => Driver.FindElement(By.Name("firstname"));
@@ -24,6 +26,10 @@ namespace UdemyFramework
         IWebElement _emergencyMaleRadio => Driver.FindElement(By.Id("radio2-m"));
         IWebElement _emergencyFemaleRadio => Driver.FindElement(By.Id("radio2-f"));
         IWebElement _emergencyOtherRadio => Driver.FindElement(By.Id("radio2-0"));
+
+        internal override string _PageTitle => _pageTitle;
+
+        internal override string _PageUrl => throw new NotImplementedException();
 
         public SampleApplicationPage(IWebDriver driver) : base(driver)
         {

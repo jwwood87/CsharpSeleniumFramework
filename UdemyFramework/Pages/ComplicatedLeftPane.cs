@@ -12,6 +12,10 @@ namespace UdemyFramework
         IWebElement _searchBox => Driver.FindElement(By.CssSelector("div[class='et_pb_column_1_4'], input[id='s']"));
         IWebElement _searchBoxSubmit => Driver.FindElement(By.CssSelector("div[class='et_pb_column_1_4'], input[id='searchsubmit']"));
 
+        internal override string _PageTitle => throw new System.NotImplementedException();
+
+        internal override string _PageUrl => throw new System.NotImplementedException();
+
         public ComplicatedLeftPane(IWebDriver driver) : base(driver)
         {
             Driver = driver;
